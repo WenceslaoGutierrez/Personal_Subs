@@ -1,0 +1,1291 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Endless Journey Of Love
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:04.53,0:01:06.67,Default,,0,0,0,,Estos picos escarpados son tan salvajes que ni las águilas se atreven a volar allí
+Dialogue: 0,0:01:07.07,0:01:08.87,Default,,0,0,0,,El Maestro Zuo nos tiene buscando una antigua reliquia
+Dialogue: 0,0:01:09.70,0:01:11.37,Default,,0,0,0,,¿Crees que sea real?
+Dialogue: 0,0:01:12.87,0:01:14.67,Default,,0,0,0,,Las leyendas insinúan un pasado sombrío...
+Dialogue: 0,0:01:15.30,0:01:18.47,Default,,0,0,0,,Donde tesoros divinos fueron escondidos en esta montaña sagrada
+Dialogue: 0,0:01:19.27,0:01:22.63,Default,,0,0,0,,Solo los dignos pueden doblegar el tiempo a su voluntad
+Dialogue: 0,0:02:04.30,0:02:07.63,Default,,0,0,0,,(Risas espeluznantes)
+Dialogue: 0,0:02:08.67,0:02:09.70,Default,,0,0,0,,Finalmente...
+Dialogue: 0,0:02:10.27,0:02:13.17,Default,,0,0,0,,Me han rastreado hasta este páramo maldito
+Dialogue: 0,0:02:14.60,0:02:17.07,Default,,0,0,0,,Todo lo que puedo decir es...
+Dialogue: 0,0:02:21.57,0:02:25.60,Default,,0,0,0,,¡Oigan, jaja, mis respetos para ustedes!
+Dialogue: 0,0:02:25.60,0:02:27.00,Default,,0,0,0,,Alguien finalmente apareció.
+Dialogue: 0,0:02:27.00,0:02:27.90,Default,,0,0,0,,¿Quién diablos eres?
+Dialogue: 0,0:02:27.90,0:02:29.37,Default,,0,0,0,,¿Acaso necesitan preguntar?
+Dialogue: 0,0:02:29.93,0:02:31.93,Default,,0,0,0,,Soy el guardián de este reino, un maestro de la magia antigua
+Dialogue: 0,0:02:31.93,0:02:34.07,Default,,0,0,0,,El guardián del viejo tesoro
+Dialogue: 0,0:02:35.18,0:02:38.90,Default,,0,0,0,,¡Ja! Y bien, ¿cuál es el plan?\N¿Qué sueños locos persiguen?
+Dialogue: 0,0:02:38.90,0:02:40.00,Default,,0,0,0,,Secretos prohibidos o...
+Dialogue: 0,0:02:40.00,0:02:42.10,Default,,0,0,0,,¿Algún legendario pergamino de artes marciales?
+Dialogue: 0,0:02:42.13,0:02:44.50,Default,,0,0,0,,Buscamos la rueda y la puerta de piedra
+Dialogue: 0,0:02:44.53,0:02:46.60,Default,,0,0,0,,La puerta de piedra ahora es solo chatarra
+Dialogue: 0,0:02:47.37,0:02:49.63,Default,,0,0,0,,Pero tengo una última reliquia
+Dialogue: 0,0:02:49.73,0:02:52.03,Default,,0,0,0,,La puerta divina y la rueda del tiempo
+Dialogue: 0,0:02:52.37,0:02:53.67,Default,,0,0,0,,¿Qué significan esas runas de ahí arriba?
+Dialogue: 0,0:02:53.67,0:02:56.13,Default,,0,0,0,,(Canto de hechicería oscura)
+Dialogue: 0,0:02:57.37,0:02:59.47,Default,,0,0,0,,Libérate del control del tiempo y conviértete en su dueño
+Dialogue: 0,0:03:00.10,0:03:03.17,Default,,0,0,0,,Pero para dominar ese poder...
+Dialogue: 0,0:03:03.73,0:03:06.30,Default,,0,0,0,,Hay que pagar un alto precio
+Dialogue: 0,0:03:07.00,0:03:08.07,Default,,0,0,0,,¿Qué precio?
+Dialogue: 0,0:03:08.50,0:03:13.80,Default,,0,0,0,,(Risa maníaca)
+Dialogue: 0,0:03:13.80,0:03:14.79,Default,,0,0,0,,Lo olvidé
+Dialogue: 0,0:03:16.13,0:03:17.47,Default,,0,0,0,,¡Fuera de mi vista!
+Dialogue: 0,0:04:40.50,0:04:42.37,Default,,0,0,0,,El Maestro Zuo ordenó...
+Dialogue: 0,0:04:42.47,0:04:45.07,Default,,0,0,0,,Cualquiera que sepa sobre la rueda del tiempo debe ser silenciado
+Dialogue: 0,0:04:52.37,0:04:54.43,Default,,0,0,0,,Mi deber está cumplido
+Dialogue: 0,0:04:55.47,0:05:01.63,Default,,0,0,0,,El resto depende de ti para descifrar sus secretos
+Dialogue: 0,0:05:19.67,0:05:21.13,Default,,0,0,0,,Dijo el Maestro Zuo...
+Dialogue: 0,0:05:21.13,0:05:23.83,Default,,0,0,0,,Devolver la rueda del tiempo es nuestra última oportunidad
+Dialogue: 0,0:05:24.77,0:05:27.97,Default,,0,0,0,,Ya has causado suficientes problemas con el Maestro Zuo
+Dialogue: 0,0:05:28.47,0:05:31.13,Default,,0,0,0,,Ahora es nuestro turno, hermana y hermano
+Dialogue: 0,0:05:31.13,0:05:33.37,Default,,0,0,0,,Quieres que la entregue, ¿eh?
+Dialogue: 0,0:05:33.80,0:05:35.67,Default,,0,0,0,,Oí que te mueres por dejar el clan Zuo
+Dialogue: 0,0:05:35.67,0:05:37.97,Default,,0,0,0,,Entregar la rueda del tiempo es tu último trabajo
+Dialogue: 0,0:05:38.90,0:05:40.10,Default,,0,0,0,,Si yo fuera tú...
+Dialogue: 0,0:05:40.30,0:05:42.03,Default,,0,0,0,,Dejaría esta basura de la rueda del tiempo
+Dialogue: 0,0:05:42.17,0:05:43.17,Default,,0,0,0,,Huye mientras puedas
+Dialogue: 0,0:05:43.70,0:05:46.37,Default,,0,0,0,,Ese es tu estilo, yo me quedo
+Dialogue: 0,0:07:18.30,0:07:21.17,Default,,0,0,0,,El tiempo se llevará todo...
+Dialogue: 0,0:07:21.97,0:07:25.07,Default,,0,0,0,,Nunca se detiene, nunca espera a nadie
+Dialogue: 0,0:07:25.87,0:07:30.30,Default,,0,0,0,,Sin embargo, nosotros lo esperamos
+Dialogue: 0,0:07:55.66,0:07:57.08,Default,,0,0,0,,Vamos 
+Dialogue: 0,0:08:09.25,0:08:10.70,Default,,0,0,0,,La gente dice...
+Dialogue: 0,0:08:10.70,0:08:15.16,Default,,0,0,0,,Que el tiempo pasa lentísimo aquí en este aburrido pueblo pesquero
+Dialogue: 0,0:08:16.00,0:08:17.23,Default,,0,0,0,,¡No puedo esperar!
+Dialogue: 0,0:08:17.37,0:08:19.40,Default,,0,0,0,,Me muero por largarme de este pueblo pesquero
+Dialogue: 0,0:08:19.77,0:08:22.27,Default,,0,0,0,,¡Quiero perseguir una vida más interesante!
+Dialogue: 0,0:08:36.90,0:08:39.03,Default,,0,0,0,,¿Qué haces niña?
+Dialogue: 0,0:08:39.13,0:08:40.79,Default,,0,0,0,,¡Tengo prisa!
+Dialogue: 0,0:08:53.04,0:08:56.01,Default,,0,0,0,,Este barquito de vapor pasará por los pueblos pesqueros en su camino a hacia la gran ciudad
+Dialogue: 0,0:08:56.20,0:08:57.90,Default,,0,0,0,,¡Solo pasa una vez cada seis meses!
+Dialogue: 0,0:08:58.20,0:08:59.67,Default,,0,0,0,,La gente que ha estado allí dice...
+Dialogue: 0,0:08:59.67,0:09:02.43,Default,,0,0,0,,¡El tiempo vuela si no te das cuenta!
+Dialogue: 0,0:09:02.93,0:09:05.63,Default,,0,0,0,,Porque hay demasiadas cosas geniales que ver, ¿sabes?
+Dialogue: 0,0:09:05.93,0:09:09.17,Default,,0,0,0,,¡Seguro que es súper divertido, lleno de comida increíble!
+Dialogue: 0,0:09:09.50,0:09:12.10,Default,,0,0,0,,¡Un lugar donde hay comida por todas partes!
+Dialogue: 0,0:09:12.37,0:09:14.63,Default,,0,0,0,,Con teatros, parques de atracciones...
+Dialogue: 0,0:09:15.40,0:09:18.67,Default,,0,0,0,,¡Y un montón de películas épicas!
+Dialogue: 0,0:09:20.80,0:09:21.97,Default,,0,0,0,,Tengo un presentimiento...
+Dialogue: 0,0:09:22.33,0:09:24.30,Default,,0,0,0,,¡Definitivamente estaré en la gran ciudad!
+Dialogue: 0,0:09:24.47,0:09:27.03,Default,,0,0,0,,Y pasaré una historia maravillosa
+Dialogue: 0,0:09:27.21,0:09:30.61,Default,,0,0,0,,¿Qué están haciendo, payasos?
+Dialogue: 0,0:09:30.60,0:09:31.29,Default,,0,0,0,,Si no compran, ¡larguense de aquí, niños!
+Dialogue: 0,0:09:31.29,0:09:35.46,Default,,0,0,0,,Pero te dimos el dinero para dos bombones
+Dialogue: 0,0:09:35.93,0:09:37.33,Default,,0,0,0,,¿Quién vio eso?
+Dialogue: 0,0:09:37.33,0:09:39.50,Default,,0,0,0,,Paguen, sino... ¡largo!
+Dialogue: 0,0:09:42.90,0:09:44.67,Default,,0,0,0,,¿Cuál es el problema, eh?
+Dialogue: 0,0:09:44.67,0:09:46.27,Default,,0,0,0,,¡Yo lo vi!
+Dialogue: 0,0:09:46.27,0:09:48.87,Default,,0,0,0,,¿Y qué si lo viste? ¿Qué vas a hacer al respecto?
+Dialogue: 0,0:09:48.87,0:09:50.77,Default,,0,0,0,,¿Qué voy a hacer?
+Dialogue: 0,0:09:51.70,0:09:53.77,Default,,0,0,0,,¡Oye, oye, oye, espera!
+Dialogue: 0,0:09:54.10,0:09:56.07,Default,,0,0,0,,(Risas)
+Dialogue: 0,0:09:56.10,0:10:00.58,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,0:10:05.95,0:10:09.05,Default,,0,0,0,,¡Te estás tardando una eternidad en comprar esa cera!
+Dialogue: 0,0:10:09.50,0:10:12.50,Default,,0,0,0,,¿Y ahora estás lanzando golpes?
+Dialogue: 0,0:10:12.87,0:10:16.57,Default,,0,0,0,,¡Ay, que alguien me levante, por Dios!
+Dialogue: 0,0:10:18.50,0:10:19.40,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,0:10:19.40,0:10:21.17,Default,,0,0,0,,Esa chica inmadura
+Dialogue: 0,0:10:21.30,0:10:22.57,Default,,0,0,0,,Toma el dinero de la cera
+Dialogue: 0,0:10:22.60,0:10:23.55,Default,,0,0,0,,Eres una buena persona
+Dialogue: 0,0:10:23.55,0:10:24.30,Default,,0,0,0,,¡No me sueltes!
+Dialogue: 0,0:10:25.10,0:10:28.20,Default,,0,0,0,,¡Ese viejo astuto es mi padrino!
+Dialogue: 0,0:10:28.07,0:10:30.83,Default,,0,0,0,,¡El único tipo artístico en esta isla!
+Dialogue: 0,0:10:31.20,0:10:32.63,Default,,0,0,0,,Graba películas...
+Dialogue: 0,0:10:32.73,0:10:36.40,Default,,0,0,0,,Las revela, ¡pero sobre todo las proyecta!
+Dialogue: 0,0:10:37.00,0:10:39.13,Default,,0,0,0,,Se dice que hace tres años...
+Dialogue: 0,0:10:39.13,0:10:41.30,Default,,0,0,0,,Mientras filmaba una historia de amor del pueblo...
+Dialogue: 0,0:10:41.30,0:10:43.75,Default,,0,0,0,,Me encontró en la orilla.
+Dialogue: 0,0:10:43.75,0:10:45.41,Default,,0,0,0,,Una chica
+Dialogue: 0,0:10:45.93,0:10:47.63,Default,,0,0,0,,Ni siquiera recuerdo de dónde vengo...
+Dialogue: 0,0:10:47.87,0:10:49.00,Default,,0,0,0,,Estos tres años en la isla...
+Dialogue: 0,0:10:49.00,0:10:50.01,Default,,0,0,0,,¿Tienes hambre?
+Dialogue: 0,0:10:49.25,0:10:51.21,Default,,0,0,0,, Son todo lo que recuerdo...
+Dialogue: 0,0:10:52.62,0:10:54.39,Default,,0,0,0,,¡Que sabroso!
+Dialogue: 0,0:10:57.77,0:11:00.07,Default,,0,0,0,,El viejo proyecta películas cada semana en la isla...
+Dialogue: 0,0:11:00.10,0:11:02.43,Default,,0,0,0,,¡Es lo más genial que hay!
+Dialogue: 0,0:11:02.97,0:11:04.47,Default,,0,0,0,,Pensar en eso hace darme cuenta...
+Dialogue: 0,0:11:04.50,0:11:06.20,Default,,0,0,0,,¡De lo peligroso que eres!
+Dialogue: 0,0:11:06.49,0:11:07.42,Default,,0,0,0,,Por favor no me dejes
+Dialogue: 0,0:11:07.87,0:11:09.00,Default,,0,0,0,,¡Me robaste el corazón!
+Dialogue: 0,0:11:12.29,0:11:15.02,Default,,0,0,0,,La gran ciudad
+Dialogue: 0,0:11:15.04,0:11:19.33,Default,,0,0,0,,Debe de ser como en las películas...
+Dialogue: 0,0:11:31.70,0:11:34.20,Default,,0,0,0,,¡Oye, viejo, tu cámara está rota!
+Dialogue: 0,0:11:34.20,0:11:35.33,Default,,0,0,0,,¡Te conseguiré una nueva en la gran ciudad!
+Dialogue: 0,0:11:35.33,0:11:37.10,Default,,0,0,0,,No hace falta
+Dialogue: 0,0:11:37.10,0:11:39.57,Default,,0,0,0,,Me has cuidado, es hora de pagártelo, ¿no?
+Dialogue: 0,0:11:39.57,0:11:41.87,Default,,0,0,0,,Además, ¡nunca he ido a la gran ciudad!
+Dialogue: 0,0:11:43.67,0:11:48.83,Default,,0,0,0,,¿Quieres irte? ¡O pagas como se debe o te quedas a cuidarme hasta que me muera!
+Dialogue: 0,0:11:48.88,0:11:50.95,Default,,0,0,0,,Es solo dinero, ¡te lo devolveré algún día, oye!
+Dialogue: 0,0:11:51.53,0:11:52.80,Default,,0,0,0,,¡Trato hecho!
+Dialogue: 0,0:11:52.80,0:11:53.57,Default,,0,0,0,,¡Promesa de meñique!
+Dialogue: 0,0:11:53.57,0:11:54.40,Default,,0,0,0,,¡Una promesa es una promesa, jaja!
+Dialogue: 0,0:11:54.40,0:11:56.07,Default,,0,0,0,,¡Eres un materialista!
+Dialogue: 0,0:11:56.07,0:11:56.87,Default,,0,0,0,,No intentes negarlo despúes
+Dialogue: 0,0:11:56.87,0:11:58.10,Default,,0,0,0,,¡Bla, bla, bla!
+Dialogue: 0,0:11:58.10,0:12:00.30,Default,,0,0,0,,¡Yada yada yada!
+Dialogue: 0,0:12:01.10,0:12:05.03,Default,,0,0,0,,Lo entiendo, lo entiendo, ¡el viejo me salvó la vida!
+Dialogue: 0,0:12:05.50,0:12:08.20,Default,,0,0,0,,¡Pero no voy a desperdiciar mis días así!
+Dialogue: 0,0:12:08.40,0:12:11.67,Default,,0,0,0,,Oye, Noveno Abuelo, has estado atrapado en este pueblo por siempre...
+Dialogue: 0,0:12:11.67,0:12:13.47,Default,,0,0,0,,¿No te mueres de aburrimiento?
+Dialogue: 0,0:12:21.93,0:12:25.87,Default,,0,0,0,,Abuela, ¿nunca volveremos a ver al abuelo?
+Dialogue: 0,0:12:25.87,0:12:30.10,Default,,0,0,0,,Esto es solo un largo adiós hasta que nos volvamos a encontrar
+Dialogue: 0,0:12:30.53,0:12:32.00,Default,,0,0,0,,Ya lo verás...
+Dialogue: 0,0:12:32.53,0:12:34.10,Default,,0,0,0,,Nos volveremos a encontrar
+Dialogue: 0,0:12:34.77,0:12:37.00,Default,,0,0,0,,¡Los adultos siempre dicen esas tonterías!
+Dialogue: 0,0:12:37.33,0:12:39.50,Default,,0,0,0,,¡Solo hay una vida!
+Dialogue: 0,0:12:40.30,0:12:42.27,Default,,0,0,0,,Como el último trago de alcohol...
+Dialogue: 0,0:12:42.60,0:12:45.37,Default,,0,0,0,,¡Una vez que te vas, no hay más tragos!
+Dialogue: 0,0:12:47.80,0:12:48.67,Default,,0,0,0,,Noveno Abuelo...
+Dialogue: 0,0:12:51.67,0:12:54.77,Default,,0,0,0,,¡Toma un último sorbo de alcohol!
+Dialogue: 0,0:13:02.67,0:13:03.77,Default,,0,0,0,,Viejo...
+Dialogue: 0,0:13:05.10,0:13:07.90,Default,,0,0,0,,¡El Noveno Abuelo se fue a lo grande!
+Dialogue: 0,0:13:09.40,0:13:12.23,Default,,0,0,0,,Pero yo no voy a esperar a estirar la pata, ¡ni hablar!
+Dialogue: 0,0:13:13.27,0:13:15.10,Default,,0,0,0,,Un día de estos me largare de aquí...
+Dialogue: 0,0:13:15.50,0:13:16.97,Default,,0,0,0,,¡Al otro lado de este mar!
+Dialogue: 0,0:13:17.53,0:13:22.17,Default,,0,0,0,,¡A esa salvaje y desconocida gran ciudad!
+Dialogue: 0,0:13:26.55,0:13:28.55,Default,,0,0,0,,¡El trío está de vuelta!
+Dialogue: 0,0:13:29.70,0:13:30.77,Default,,0,0,0,,¡Otra vez nos estafaron!
+Dialogue: 0,0:13:33.41,0:13:34.32,Default,,0,0,0,,Estos tipos anticuados...
+Dialogue: 0,0:13:34.40,0:13:35.94,Default,,0,0,0,,Así es, jefe
+Dialogue: 0,0:13:35.95,0:13:37.90,Default,,0,0,0,,Dos onzas de vino de arroz y una caja de carne estofada, rápido
+Dialogue: 0,0:14:00.90,0:14:02.27,Default,,0,0,0,,Robar a los ricos para dar a los pobres
+Dialogue: 0,0:14:02.62,0:14:03.95,Default,,0,0,0,,Incluso los ladrones tienen su código de honor
+Dialogue: 0,0:14:22.04,0:14:23.79,Default,,0,0,0,,Una película nueva
+Dialogue: 0,0:14:37.60,0:14:39.20,Default,,0,0,0,,Que hermoso
+Dialogue: 0,0:14:46.33,0:14:47.13,Default,,0,0,0,,Qian Xiao...
+Dialogue: 0,0:14:47.73,0:14:48.53,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,0:15:08.45,0:15:09.04,Default,,0,0,0,,¡Oh no!
+Dialogue: 0,0:15:12.45,0:15:13.38,Default,,0,0,0,,¿Dónde lo ponemos?
+Dialogue: 0,0:15:13.50,0:15:14.50,Default,,0,0,0,,Ponlo donde quieras
+Dialogue: 0,0:15:14.50,0:15:15.83,Default,,0,0,0,,De acuerdo, lo pondré por aquí
+Dialogue: 0,0:15:16.10,0:15:18.20,Default,,0,0,0,,El barco se va, ¡vámonos!
+Dialogue: 0,0:15:22.27,0:15:25.07,Default,,0,0,0,,Finalmente terminé, ¡me está matando la espalda!
+Dialogue: 0,0:15:25.13,0:15:28.57,Default,,0,0,0,,¡Ay mi espalda, ay, ay, ay!
+Dialogue: 0,0:15:52.27,0:15:53.27,Default,,0,0,0,,Viejo...
+Dialogue: 0,0:15:55.07,0:15:56.83,Default,,0,0,0,,¡Volveré, lo prometo!
+Dialogue: 0,0:16:05.05,0:16:06.88,Default,,0,0,0,,Viejo...
+Dialogue: 0,0:16:09.33,0:16:12.10,Default,,0,0,0,,¡A que no me atrapas ahora!
+Dialogue: 0,0:16:12.97,0:16:15.36,Default,,0,0,0,,¡Gran ciudad!
+Dialogue: 0,0:16:15.38,0:16:18.36,Default,,0,0,0,, ¡Allá voy!
+Dialogue: 0,0:16:19.40,0:16:20.80,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,0:16:31.13,0:16:32.03,Default,,0,0,0,,¡Oiga, jefe!
+Dialogue: 0,0:16:32.10,0:16:34.70,Default,,0,0,0,,¿Por qué no veo con claridad?
+Dialogue: 0,0:16:34.70,0:16:36.80,Default,,0,0,0,,Estos ojos están acabados, ¡me los voy a sacar!
+Dialogue: 0,0:16:37.07,0:16:38.91,Default,,0,0,0,,¡Es solo niebla, nena!
+Dialogue: 0,0:16:38.91,0:16:40.65,Default,,0,0,0,,Oh, cierto
+Dialogue: 0,0:18:03.97,0:18:04.90,Default,,0,0,0,,No muy lejos de aquí...
+Dialogue: 0,0:18:04.90,0:18:07.57,Default,,0,0,0,,¡Boom, lancé la red una vez y vi que era un pez grande!
+Dialogue: 0,0:18:08.17,0:18:10.63,Default,,0,0,0,,A mitad de camino, pensé: "¡Oye, esto es una sirena!"
+Dialogue: 0,0:18:10.80,0:18:12.67,Default,,0,0,0,,La subo a cubierta, y bam...
+Dialogue: 0,0:18:12.67,0:18:14.97,Default,,0,0,0,,Es una mezcla de persona y sirena, ¿puedes creerlo?
+Dialogue: 0,0:18:15.30,0:18:17.47,Default,,0,0,0,,¡Vaya, esta chica todavía está viva!
+Dialogue: 0,0:18:17.47,0:18:19.40,Default,,0,0,0,,Respira !Incluso ronca!
+Dialogue: 0,0:18:19.40,0:18:20.20,Default,,0,0,0,,¿De verdad?
+Dialogue: 0,0:18:20.20,0:18:21.07,Default,,0,0,0,,¡Te lo juro!
+Dialogue: 0,0:18:21.27,0:18:24.23,Default,,0,0,0,,¡Ni idea de cuánto tiempo estuvo a la deriva, se quedó dormida ahí fuera!
+Dialogue: 0,0:18:24.37,0:18:25.37,Default,,0,0,0,,¡Cuéntenlo todo!
+Dialogue: 0,0:18:25.37,0:18:28.57,Default,,0,0,0,,¿Podría estar relacionado con ese naufragio del Mar del Oeste?
+Dialogue: 0,0:18:28.57,0:18:30.50,Default,,0,0,0,,¡Oí que el equipo de rescate está por ahí!
+Dialogue: 0,0:18:30.50,0:18:32.67,Default,,0,0,0,,¿Encontraron algo? ¿De dónde vino esta gente?
+Dialogue: 0,0:18:32.77,0:18:35.67,Default,,0,0,0,,Mmm, ¿cuál es la historia?
+Dialogue: 0,0:18:38.20,0:18:39.53,Default,,0,0,0,,¡Mamá!
+Dialogue: 0,0:18:39.73,0:18:41.47,Default,,0,0,0,,¿La pescaste por allá?
+Dialogue: 0,0:18:41.47,0:18:43.33,Default,,0,0,0,,¡Ay, deja de llorar, niño!
+Dialogue: 0,0:18:43.33,0:18:44.27,Default,,0,0,0,,¡Estoy contando una historia!
+Dialogue: 0,0:18:44.27,0:18:45.93,Default,,0,0,0,,¡Te dolerá el estómago si comes tan rápido!
+Dialogue: 0,0:18:45.93,0:18:47.20,Default,,0,0,0,,¡Te va a dar diarrea!
+Dialogue: 0,0:18:47.20,0:18:48.20,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:19:15.20,0:19:16.57,Default,,0,0,0,,Lo siento
+Dialogue: 0,0:19:16.57,0:19:18.81,Default,,0,0,0,,Esto es...
+Dialogue: 0,0:19:18.83,0:19:20.06,Default,,0,0,0,,¡La gran ciudad!
+Dialogue: 0,0:19:29.42,0:19:31.79,Default,,0,0,0,,Señorita, tenga cuidado
+Dialogue: 0,0:19:46.67,0:19:47.70,Default,,0,0,0,,¿A dónde vas?
+Dialogue: 0,0:19:47.70,0:19:49.23,Default,,0,0,0,,¡Espera, he estado pidiendo transporte a gritos!
+Dialogue: 0,0:20:02.00,0:20:03.10,Default,,0,0,0,,Fue 17
+Dialogue: 0,0:20:03.20,0:20:06.91,Default,,0,0,0,,Señor Zuo, el equipo de rescate ha estado buscando la rueda del tiempo desde el incidente
+Dialogue: 0,0:20:07.00,0:20:10.40,Default,,0,0,0,,¡Pero algunos juran que vieron a 17 en la ciudad!
+Dialogue: 0,0:20:13.79,0:20:16.02,Default,,0,0,0,,Quien recupere la rueda del tiempo...
+Dialogue: 0,0:20:17.04,0:20:18.08,Default,,0,0,0,,Vivirá
+Dialogue: 0,0:20:18.08,0:20:19.75,Default,,0,0,0,,Encontraremos a 17...
+Dialogue: 0,0:20:19.75,0:20:21.00,Default,,0,0,0,,Y recuperaremos la rueda del tiempo
+Dialogue: 0,0:20:36.00,0:20:36.90,Default,,0,0,0,,Carne
+Dialogue: 0,0:20:37.15,0:20:37.87,Default,,0,0,0,,Pan al vapor
+Dialogue: 0,0:20:38.33,0:20:39.00,Default,,0,0,0,,Sopa
+Dialogue: 0,0:20:39.15,0:20:40.12,Default,,0,0,0,,Ay...
+Dialogue: 0,0:20:42.75,0:20:43.77,Default,,0,0,0,,No me lo comeré
+Dialogue: 0,0:20:44.57,0:20:46.03,Default,,0,0,0,,¡Qué desperdicio!
+Dialogue: 0,0:20:49.87,0:20:50.63,Default,,0,0,0,,¡Wow!
+Dialogue: 0,0:21:08.90,0:21:09.90,Default,,0,0,0,,¡Espera, espera!
+Dialogue: 0,0:21:10.77,0:21:11.33,Default,,0,0,0,,¡Oye tu!
+Dialogue: 0,0:21:11.65,0:21:12.73,Default,,0,0,0,,¡Me las pagaras!
+Dialogue: 0,0:21:13.17,0:21:14.70,Default,,0,0,0,,Comeré algo primero
+Dialogue: 0,0:21:17.42,0:21:19.38,Default,,0,0,0,,Vagabunda de enfrente
+Dialogue: 0,0:21:19.67,0:21:20.83,Default,,0,0,0,,¡Detente ahí mismo!
+Dialogue: 0,0:21:21.33,0:21:22.57,Default,,0,0,0,,¡Suelta la comida y no te muevas!
+Dialogue: 0,0:21:22.57,0:21:23.37,Default,,0,0,0,,¡No soy una vagabunda!
+Dialogue: 0,0:21:23.37,0:21:24.57,Default,,0,0,0,,¡Atrapenla!
+Dialogue: 0,0:21:24.57,0:21:26.20,Default,,0,0,0,,¡No soy una vagabunda!
+Dialogue: 0,0:21:30.70,0:21:31.88,Default,,0,0,0,,¡Rápido!
+Dialogue: 0,0:21:49.33,0:21:50.43,Default,,0,0,0,,Señorita...
+Dialogue: 0,0:21:51.90,0:21:53.03,Default,,0,0,0,,No eres de por aquí, ¿verdad?
+Dialogue: 0,0:21:53.63,0:21:56.43,Default,,0,0,0,,¿Esos policías te asustaron?
+Dialogue: 0,0:21:56.43,0:21:58.88,Default,,0,0,0,,Estan arrestando a un vagabundo
+Dialogue: 0,0:21:59.50,0:22:00.77,Default,,0,0,0,,Jajaja
+Dialogue: 0,0:22:00.76,0:22:02.83,Default,,0,0,0,,Entonces, vayamos con tu amigo
+Dialogue: 0,0:22:04.13,0:22:05.12,Default,,0,0,0,,Mi compañero te guiará...
+Dialogue: 0,0:22:08.05,0:22:09.67,Default,,0,0,0,,Hermano, ¿vas a llamar a la policía?
+Dialogue: 0,0:22:09.79,0:22:11.20,Default,,0,0,0,,Creo que deberíamos llamar a la policía
+Dialogue: 0,0:22:11.21,0:22:12.76,Default,,0,0,0,,¡Persíganla!
+Dialogue: 0,0:22:17.29,0:22:18.00,Default,,0,0,0,,¡Detente!
+Dialogue: 0,0:22:23.33,0:22:24.13,Default,,0,0,0,,¡Vámos!
+Dialogue: 0,0:22:35.14,0:22:35.94,Default,,0,0,0,,Lo siento
+Dialogue: 0,0:22:40.01,0:22:40.78,Default,,0,0,0,,¡Deja de correr!
+Dialogue: 0,0:22:42.43,0:22:43.29,Default,,0,0,0,,¿Adondé crees que vas?
+Dialogue: 0,0:22:44.30,0:22:45.15,Default,,0,0,0,,¡No corras!
+Dialogue: 0,0:23:00.77,0:23:02.05,Default,,0,0,0,,¡Alto ahí!
+Dialogue: 0,0:23:22.01,0:23:23.54,Default,,0,0,0,,¡Socorro! ¡Alguien me persigue!
+Dialogue: 0,0:23:23.51,0:23:24.51,Default,,0,0,0,,Eres...
+Dialogue: 0,0:23:25.27,0:23:26.58,Default,,0,0,0,,Corre hacia ese callejón
+Dialogue: 0,0:23:26.59,0:23:28.91,Default,,0,0,0,,Pase lo que pase, no mires atrás, ¿entendido?
+Dialogue: 0,0:23:30.89,0:23:32.66,Default,,0,0,0,,No esperaba que el fuera tan amable
+Dialogue: 0,0:23:35.14,0:23:36.15,Default,,0,0,0,,Suéltenme
+Dialogue: 0,0:23:37.26,0:23:38.91,Default,,0,0,0,,¿Como es posible que persiguiéramos a la persona equivocada?
+Dialogue: 0,0:23:38.90,0:23:39.57,Default,,0,0,0,,Vamonos
+Dialogue: 0,0:23:40.70,0:23:41.50,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:23:45.73,0:23:46.57,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:23:46.90,0:23:48.19,Default,,0,0,0,,¿A dónde se fue?
+Dialogue: 0,0:23:48.22,0:23:49.79,Default,,0,0,0,,¡Sepárense y búsquenla!
+Dialogue: 0,0:23:51.20,0:23:52.00,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:23:55.45,0:23:57.32,Default,,0,0,0,,Me usaste para atraer a la policía, ¿eh?
+Dialogue: 0,0:23:57.30,0:23:58.57,Default,,0,0,0,,¿Y ahora te haces el bueno y me salvas?
+Dialogue: 0,0:23:58.58,0:23:59.17,Default,,0,0,0,,No quería salvarte
+Dialogue: 0,0:23:59.17,0:24:00.16,Default,,0,0,0,,Entonces, ¿qué vas a hacer?
+Dialogue: 0,0:24:00.16,0:24:01.76,Default,,0,0,0,,Originalmente quería que me devolvieras mi sombrero...
+Dialogue: 0,0:24:01.77,0:24:03.29,Default,,0,0,0,,Pero ya no lo quiero
+Dialogue: 0,0:24:03.29,0:24:04.02,Default,,0,0,0,,Ya puedes irte
+Dialogue: 0,0:24:06.66,0:24:07.88,Default,,0,0,0,,¡Aquí te escondías!
+Dialogue: 0,0:24:08.02,0:24:10.15,Default,,0,0,0,,Incluso encontraste un ayudante
+Dialogue: 0,0:24:10.55,0:24:11.02,Default,,0,0,0,,Espera...
+Dialogue: 0,0:24:11.03,0:24:12.32,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:24:13.65,0:24:16.06,Default,,0,0,0,,Su botón no está bien abrochado
+Dialogue: 0,0:24:16.13,0:24:20.00,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:24:21.02,0:24:22.15,Default,,0,0,0,,Olvídenlo
+Dialogue: 0,0:24:27.17,0:24:28.97,Default,,0,0,0,,Mmm, ¿qué es esto?
+Dialogue: 0,0:24:30.93,0:24:35.16,Default,,0,0,0,,¡Ese oro tan grande debe valer una fortuna!
+Dialogue: 0,0:24:35.17,0:24:37.51,Default,,0,0,0,,Disculpe, todavía me interesa ese botón
+Dialogue: 0,0:24:39.19,0:24:40.07,Default,,0,0,0,,La rueda del tiempo
+Dialogue: 0,0:24:43.15,0:24:43.84,Default,,0,0,0,,¡Nadie se mueva!
+Dialogue: 0,0:24:44.28,0:24:45.77,Default,,0,0,0,,Tomen el colgante de oro
+Dialogue: 0,0:26:02.40,0:26:03.40,Default,,0,0,0,,¿Qué pasó? Persíganla
+Dialogue: 0,0:26:08.50,0:26:10.31,Default,,0,0,0,,¿Qué acaba de pasar?
+Dialogue: 0,0:26:10.37,0:26:11.17,Default,,0,0,0,,¿Podría ser...
+Dialogue: 0,0:26:11.70,0:26:13.00,Default,,0,0,0,,Por esto?
+Dialogue: 0,0:26:26.37,0:26:28.37,Default,,0,0,0,,Esto es realmente asombroso
+Dialogue: 0,0:26:47.93,0:26:50.40,Default,,0,0,0,,Con esto, ¿puedo vivir como ellos?
+Dialogue: 0,0:26:50.40,0:26:52.07,Default,,0,0,0,,¿Esa vida de estrella de cine?
+Dialogue: 0,0:26:52.27,0:26:55.10,Default,,0,0,0,,¡Un ambiente épico y único!
+Dialogue: 0,0:26:55.20,0:26:58.40,Default,,0,0,0,,¡Mi vida podría ser épica como una película!
+Dialogue: 0,0:26:59.53,0:27:01.03,Default,,0,0,0,,Mi propia historia...
+Dialogue: 0,0:27:01.37,0:27:04.03,Default,,0,0,0,,Puede ser tan emocionante como en las películas
+Dialogue: 0,0:27:05.10,0:27:09.30,Default,,0,0,0,,Pero, ¿cuál es la forma más emocionante de vivir?
+Dialogue: 0,0:27:13.00,0:27:13.73,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:27:13.73,0:27:14.99,Default,,0,0,0,,Puedes controlar el tiempo
+Dialogue: 0,0:27:15.00,0:27:16.95,Default,,0,0,0,,Puedes controlar el dinero, cariño
+Dialogue: 0,0:27:16.95,0:27:18.56,Default,,0,0,0,,¡Tienes la velocidad para superar todo!
+Dialogue: 0,0:27:18.70,0:27:19.75,Default,,0,0,0,,¿Cómo no va a ser emocionante la vida?
+Dialogue: 0,0:27:19.75,0:27:21.00,Default,,0,0,0,,Quiero lo más emocionante
+Dialogue: 0,0:27:21.00,0:27:22.30,Default,,0,0,0,,¡Todos ustedes son estrellas de cine!
+Dialogue: 0,0:27:22.37,0:27:23.45,Default,,0,0,0,,Denme algunos consejos de vida, ¿sí?
+Dialogue: 0,0:27:23.46,0:27:24.25,Default,,0,0,0,,Ciertamente
+Dialogue: 0,0:27:24.25,0:27:26.29,Default,,0,0,0,,No sé por qué...
+Dialogue: 0,0:27:26.33,0:27:27.62,Default,,0,0,0,,Siempre hay alguien a mi alrededor... 
+Dialogue: 0,0:27:27.64,0:27:31.53,Default,,0,0,0,,Dispuesto a sufrir por mi amor...
+Dialogue: 0,0:27:31.54,0:27:32.04,Default,,0,0,0,,Es imposible...
+Dialogue: 0,0:27:32.04,0:27:35.45,Default,,0,0,0,,¿Quién permitio que solo exista un yo en el mundo?
+Dialogue: 0,0:27:35.46,0:27:36.70,Default,,0,0,0,,Joyas y regalos de diamantes
+Dialogue: 0,0:27:36.70,0:27:38.49,Default,,0,0,0,,Pero, ¿quién diría que no a los regalos?
+Dialogue: 0,0:27:38.95,0:27:42.44,Default,,0,0,0,,¡Te aconsejo jurarme lealtad, llámame hermano mayor!
+Dialogue: 0,0:27:42.45,0:27:46.03,Default,,0,0,0,,¡Te llevaré a romper todas las reglas!
+Dialogue: 0,0:27:46.04,0:27:47.62,Default,,0,0,0,,Saquearemos
+Dialogue: 0,0:27:47.63,0:27:50.20,Default,,0,0,0,,¡El mundo es tuyo, niña!
+Dialogue: 0,0:27:50.20,0:27:53.95,Default,,0,0,0,,Pasará el resto de su vida en una celda
+Dialogue: 0,0:27:54.00,0:27:57.57,Default,,0,0,0,,Te aconsejo que aproveches al máximo tus dones
+Dialogue: 0,0:27:57.75,0:28:01.41,Default,,0,0,0,,Haz el bien y defiende la justicia
+Dialogue: 0,0:28:01.41,0:28:05.25,Default,,0,0,0,,Pregúntate qué es lo que quieres
+Dialogue: 0,0:28:05.25,0:28:07.15,Default,,0,0,0,,Apoyar a la justicia
+Dialogue: 0,0:28:07.25,0:28:09.11,Default,,0,0,0,,Haz lo que quieras
+Dialogue: 0,0:28:09.12,0:28:10.57,Default,,0,0,0,,Creo que ya lo entiendo...
+Dialogue: 0,0:28:10.58,0:28:11.06,Default,,0,0,0,,Oh
+Dialogue: 0,0:28:11.53,0:28:13.12,Default,,0,0,0,,¡La vida no puede ser aburrida!
+Dialogue: 0,0:28:13.42,0:28:15.87,Default,,0,0,0,,¡Si encuentras un nido de avispas, tienes que tumbarlo!
+Dialogue: 0,0:28:15.88,0:28:18.07,Default,,0,0,0,,¡Si encuentras un tigre, tienes que nalguearlo!
+Dialogue: 0,0:28:18.20,0:28:18.79,Default,,0,0,0,,¿Verdad?
+Dialogue: 0,0:28:18.79,0:28:21.14,Default,,0,0,0,,¿Cómo piensas en eso?
+Dialogue: 0,0:28:23.13,0:28:23.97,Default,,0,0,0,,¡Oh, oh!
+Dialogue: 0,0:28:25.60,0:28:28.40,Default,,0,0,0,,La vida...
+Dialogue: 0,0:28:28.40,0:28:31.57,Default,,0,0,0,,Debe de ser emocionante como una película
+Dialogue: 0,0:28:31.58,0:28:35.17,Default,,0,0,0,,Incluso si el mundo se desmorona y el abismo se abre ante mí...
+Dialogue: 0,0:28:35.20,0:28:39.20,Default,,0,0,0,,Caer por el abismo sin duda te hara más fuerte
+Dialogue: 0,0:28:39.25,0:28:40.90,Default,,0,0,0,,No vivas en vano...
+Dialogue: 0,0:28:40.90,0:28:42.90,Default,,0,0,0,,Vive como una leyenda
+Dialogue: 0,0:28:42.90,0:28:45.80,Default,,0,0,0,,Llena de expectativas de una vida maravillosa
+Dialogue: 0,0:28:45.88,0:28:51.28,Default,,0,0,0,,¡Genial!
+Dialogue: 0,0:28:51.29,0:28:52.39,Default,,0,0,0,,¡Uy, por poco!
+Dialogue: 0,0:28:56.35,0:28:57.45,Default,,0,0,0,,Gracias
+Dialogue: 0,0:29:01.13,0:29:06.10,Default,,0,0,0,,SE BUSCA\NTRAER PENDIENTE
+Dialogue: 0,0:29:08.33,0:29:09.90,Default,,0,0,0,,¡Alto, no corras!
+Dialogue: 0,0:29:24.83,0:29:29.43,Default,,0,0,0,,Soy del tipo que devuelve favores y ajusta cuentas...
+Dialogue: 0,0:29:29.97,0:29:31.80,Default,,0,0,0,,Señor "Se busca"
+Dialogue: 0,0:29:31.80,0:29:33.87,Default,,0,0,0,,¡Estás acabado!
+Dialogue: 0,0:29:36.20,0:29:37.04,Default,,0,0,0,,Vamos
+Dialogue: 0,0:29:37.80,0:29:38.60,Default,,0,0,0,,¡Ay!
+Dialogue: 0,0:29:38.79,0:29:39.58,Default,,0,0,0,,Compórtate
+Dialogue: 0,0:29:39.58,0:29:41.10,Default,,0,0,0,,Señor policía
+Dialogue: 0,0:29:41.37,0:29:44.61,Default,,0,0,0,,¡El tipo que busca está aquí!
+Dialogue: 0,0:29:46.87,0:29:48.30,Default,,0,0,0,,¿No quieres saber por qué me buscan?
+Dialogue: 0,0:29:48.30,0:29:49.47,Default,,0,0,0,,¿Qué me importa a mí?
+Dialogue: 0,0:29:49.47,0:29:51.47,Default,,0,0,0,,Porque, pues...
+Dialogue: 0,0:29:51.47,0:29:52.30,Default,,0,0,0,,¿Porque qué?
+Dialogue: 0,0:29:52.30,0:29:53.97,Default,,0,0,0,,¡Porque te robé el corazón!
+Dialogue: 0,0:29:53.97,0:29:55.47,Default,,0,0,0,,¡Me robaste la rueda del tiempo!
+Dialogue: 0,0:29:58.70,0:29:59.97,Default,,0,0,0,,¿Qué rueda del tiempo?
+Dialogue: 0,0:29:59.97,0:30:02.87,Default,,0,0,0,,Oh, ¿esto? ¡Es mío, tiene nombre!
+Dialogue: 0,0:30:02.93,0:30:05.83,Default,,0,0,0,,¡Se llama el Trompo León de Hierro Negro Siempre Cambiante!
+Dialogue: 0,0:30:05.90,0:30:06.47,Default,,0,0,0,,Hace tres días...
+Dialogue: 0,0:30:06.47,0:30:08.77,Default,,0,0,0,,El Maestro Zuo me ordenó traer la rueda del tiempo en barco...
+Dialogue: 0,0:30:08.77,0:30:09.80,Default,,0,0,0,,¡Pero nos atrapó una tormenta!
+Dialogue: 0,0:30:09.80,0:30:11.63,Default,,0,0,0,,La rueda del tiempo se hundió en el Mar del Oeste...
+Dialogue: 0,0:30:11.73,0:30:14.03,Default,,0,0,0,,¿Estabas cerca del Mar del Oeste entonces?
+Dialogue: 0,0:30:17.60,0:30:18.80,Default,,0,0,0,,Ese día, dos barcos chocaron...
+Dialogue: 0,0:30:18.80,0:30:21.57,Default,,0,0,0,,Si no me equivoco, ¡tú estabas allí!
+Dialogue: 0,0:30:21.57,0:30:23.70,Default,,0,0,0,,¡Así que, cuéntaselo a la policía después!
+Dialogue: 0,0:30:23.77,0:30:27.90,Default,,0,0,0,,¡El cartel de se busca tiene al tipo equivocado, eres tú!
+Dialogue: 0,0:30:40.20,0:30:41.00,Default,,0,0,0,,¡Hmph!
+Dialogue: 0,0:30:41.13,0:30:42.75,Default,,0,0,0,,¡Mamá!
+Dialogue: 0,0:30:42.75,0:30:45.45,Default,,0,0,0,,¿Qué pasa, tesorito?
+Dialogue: 0,0:30:45.45,0:30:47.48,Default,,0,0,0,,¡Tienes que dejar de comer, por favor!
+Dialogue: 0,0:30:47.53,0:30:49.00,Default,,0,0,0,,¡Deja de llorar, pequeño!
+Dialogue: 0,0:30:52.67,0:30:54.83,Default,,0,0,0,,¿Te buscan porque la perdiste?
+Dialogue: 0,0:30:54.93,0:30:57.10,Default,,0,0,0,,¿No deberías estar escondiéndote muy, muy lejos?
+Dialogue: 0,0:30:57.40,0:30:59.08,Default,,0,0,0,,Traer de vuelta la rueda del tiempo era mi misión
+Dialogue: 0,0:30:59.08,0:31:01.98,Default,,0,0,0,,Fallé, yo mismo le iba a informar al Sr. Zuo y aceptaria el castigo
+Dialogue: 0,0:31:02.13,0:31:05.47,Default,,0,0,0,,Hasta que descubrí que tú te la habías llevado
+Dialogue: 0,0:31:06.47,0:31:07.77,Default,,0,0,0,,¡Yo no la robé!
+Dialogue: 0,0:31:08.00,0:31:10.10,Default,,0,0,0,,Después de que caí, quedé inconsciente...
+Dialogue: 0,0:31:10.27,0:31:11.77,Default,,0,0,0,,Desperté en la gran ciudad
+Dialogue: 0,0:31:13.50,0:31:16.00,Default,,0,0,0,,No te preocupes, solo entrega la rueda del tiempo...
+Dialogue: 0,0:31:23.27,0:31:25.67,Default,,0,0,0,,¡Me esforcé al máximo para llegar a la gran ciudad!
+Dialogue: 0,0:31:26.17,0:31:29.30,Default,,0,0,0,,Sin dinero, sin lugar donde dormir...
+Dialogue: 0,0:31:29.50,0:31:30.63,Default,,0,0,0,,Con esto...
+Dialogue: 0,0:31:30.80,0:31:33.37,Default,,0,0,0,,¡Podría vivir como una estrella de cine, jaja!
+Dialogue: 0,0:31:34.10,0:31:35.80,Default,,0,0,0,,Hacer lo que quiera
+Dialogue: 0,0:31:36.13,0:31:38.60,Default,,0,0,0,,¡No pensé que este sueño se derrumbaría tan rápido!
+Dialogue: 0,0:31:39.20,0:31:41.13,Default,,0,0,0,,Pero como es tuya...
+Dialogue: 0,0:31:41.13,0:31:43.00,Default,,0,0,0,,No puedo quedármela, ¿verdad?
+Dialogue: 0,0:31:43.53,0:31:45.83,Default,,0,0,0,,Correcto, así que devuélvela
+Dialogue: 0,0:31:47.00,0:31:47.90,Default,,0,0,0,,Devolverla...
+Dialogue: 0,0:31:48.47,0:31:50.97,Default,,0,0,0,,Pero cuándo te la devuelvo es decisión mía, ¿no?
+Dialogue: 0,0:31:54.87,0:31:56.00,Default,,0,0,0,,Parece que si quisiera huir...
+Dialogue: 0,0:31:56.00,0:32:00.37,Default,,0,0,0,,¡Nunca, nunca me atraparás!
+Dialogue: 0,0:32:08.47,0:32:10.40,Default,,0,0,0,,Me llamo 17, ¿cuál es tu nombre?
+Dialogue: 0,0:32:10.87,0:32:12.00,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,0:32:12.29,0:32:13.69,Default,,0,0,0,, Qian Xiao
+Dialogue: 0,0:32:13.90,0:32:15.23,Default,,0,0,0,,¿Primera vez en la gran ciudad?
+Dialogue: 0,0:32:16.10,0:32:18.90,Default,,0,0,0,,¿Primera vez aquí y ya robando?
+Dialogue: 0,0:32:19.17,0:32:21.03,Default,,0,0,0,,¡No soy un ladróna!
+Dialogue: 0,0:32:21.07,0:32:23.03,Default,,0,0,0,,Puedo prestarte la rueda del tiempo por ahora...
+Dialogue: 0,0:32:23.13,0:32:24.47,Default,,0,0,0,,¿Por cuánto tiempo?
+Dialogue: 0,0:32:24.77,0:32:25.46,Default,,0,0,0,,¿Un año?
+Dialogue: 0,0:32:25.46,0:32:26.29,Default,,0,0,0,,Un día
+Dialogue: 0,0:32:27.50,0:32:28.57,Default,,0,0,0,,¿Solo un día?
+Dialogue: 0,0:32:28.57,0:32:29.66,Default,,0,0,0,,Pero no si la robas
+Dialogue: 0,0:32:29.83,0:32:30.38,Default,,0,0,0,,Oye
+Dialogue: 0,0:32:30.40,0:32:31.43,Default,,0,0,0,,Tienes dos condiciones
+Dialogue: 0,0:32:31.70,0:32:33.60,Default,,0,0,0,,¿Te atreves a ponerme condiciones?
+Dialogue: 0,0:32:35.27,0:32:36.43,Default,,0,0,0,,Dos peticiones, entonces
+Dialogue: 0,0:32:41.25,0:32:41.80,Default,,0,0,0,,Dilo, ¿la primera?
+Dialogue: 0,0:32:42.10,0:32:43.90,Default,,0,0,0,,No te alejes de mi vista
+Dialogue: 0,0:32:43.96,0:32:44.71,Default,,0,0,0,,Segunda
+Dialogue: 0,0:32:45.05,0:32:45.85,Default,,0,0,0,,Tus trenzas...
+Dialogue: 0,0:32:45.87,0:32:47.54,Default,,0,0,0,,Eh, ¿Qué tienen mis trenzas?
+Dialogue: 0,0:32:56.57,0:32:59.90,Default,,0,0,0,,Eres rarito, ¿verdad?
+Dialogue: 0,0:33:03.60,0:33:05.97,Default,,0,0,0,,¿También me vas a limpiar?
+Dialogue: 0,0:33:06.57,0:33:08.83,Default,,0,0,0,,La simetría es la clave, ¡vamos!
+Dialogue: 0,0:33:10.73,0:33:11.83,Default,,0,0,0,,Definitivamente es rarito
+Dialogue: 0,0:33:13.87,0:33:14.87,Default,,0,0,0,,¿Puedo hacer lo que quiera hoy?
+Dialogue: 0,0:33:15.33,0:33:16.13,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:33:23.93,0:33:24.97,Default,,0,0,0,,¿Para qué necesitas esto?
+Dialogue: 0,0:33:24.97,0:33:26.90,Default,,0,0,0,,Quiero filmar todo hoy...
+Dialogue: 0,0:33:26.90,0:33:28.70,Default,,0,0,0,,¡Mostrarle a la gente del pueblo el ambiente de la gran ciudad!
+Dialogue: 0,0:33:28.73,0:33:32.43,Default,,0,0,0,,¡Y mi Trompo León de Hierro Negro Siempre Cambiante!
+Dialogue: 0,0:33:34.00,0:33:34.80,Default,,0,0,0,,Mmm...
+Dialogue: 0,0:33:35.50,0:33:36.80,Default,,0,0,0,,¡Esto es una promesa de meñique!
+Dialogue: 0,0:33:36.80,0:33:39.77,Default,,0,0,0,,¡Ayúdame a cumplir mi deseo y te devolveré la rueda del tiempo!
+Dialogue: 0,0:33:39.77,0:33:40.80,Default,,0,0,0,,¡Prometido!
+Dialogue: 0,0:33:41.20,0:33:43.80,Default,,0,0,0,,No sería facíl recuperarla aunque quisiera
+Dialogue: 0,0:33:43.93,0:33:46.10,Default,,0,0,0,,¡Dije que no soy un ladróna!
+Dialogue: 0,0:33:46.70,0:33:49.57,Default,,0,0,0,,Además, para devolver esta cosa...
+Dialogue: 0,0:33:49.57,0:33:51.70,Default,,0,0,0,,Tienes que pagar un precio, ¿verdad?
+Dialogue: 0,0:33:54.33,0:33:56.77,Default,,0,0,0,,¡Ganar dinero es lo peor, ugh!
+Dialogue: 0,0:33:59.97,0:34:02.43,Default,,0,0,0,,¿Tengo que trabajar duro en un basurero como este?
+Dialogue: 0,0:34:02.77,0:34:05.00,Default,,0,0,0,,¿O simplemente roba el lugar?
+Dialogue: 0,0:34:05.57,0:34:08.17,Default,,0,0,0,,Oye, ¿por qué hay dos asientos vacios? ¡vamos!
+Dialogue: 0,0:34:09.33,0:34:10.90,Default,,0,0,0,,Dame todo el dinero que tengas
+Dialogue: 0,0:34:11.33,0:34:12.13,Default,,0,0,0,,Toma
+Dialogue: 0,0:34:12.47,0:34:14.40,Default,,0,0,0,,No tengo dinero, solo esto
+Dialogue: 0,0:34:15.27,0:34:16.50,Default,,0,0,0,,Solo tengo 10 yuanes
+Dialogue: 0,0:34:16.67,0:34:18.07,Default,,0,0,0,,Apuesto todo al leopardo, 36 veces la apuesta
+Dialogue: 0,0:34:18.07,0:34:19.97,Default,,0,0,0,,Necesito dos victorias con la apuesta para recuperar lo invertido
+Dialogue: 0,0:34:19.97,0:34:21.67,Default,,0,0,0,,¿Qué es un leopardo?
+Dialogue: 0,0:34:21.67,0:34:24.07,Default,,0,0,0,,¡Tres números iguales, eso es un leopardo!
+Dialogue: 0,0:34:24.60,0:34:25.55,Default,,0,0,0,,Todo a este número
+Dialogue: 0,0:34:25.58,0:34:26.69,Default,,0,0,0,,Es una apuesta riesgosa
+Dialogue: 0,0:34:26.80,0:34:28.10,Default,,0,0,0,,¿Cómo estás seguro de que saldrá un leopardo?
+Dialogue: 0,0:34:28.10,0:34:29.12,Default,,0,0,0,,Nunca pierdo
+Dialogue: 0,0:34:29.21,0:34:32.01,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,0:34:32.02,0:34:33.52,Default,,0,0,0,,¿Dios del juego, eres tú?
+Dialogue: 0,0:34:34.46,0:34:35.36,Default,,0,0,0,,Confía en mí
+Dialogue: 0,0:34:37.57,0:34:38.97,Default,,0,0,0,,¡Las apuestas están hechas, fuera las manos!
+Dialogue: 0,0:34:43.30,0:34:44.10,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:34:46.13,0:34:46.93,Default,,0,0,0,,Listo
+Dialogue: 0,0:34:48.80,0:34:51.50,Default,,0,0,0,,¡Leopardo!
+Dialogue: 0,0:34:52.17,0:34:54.60,Default,,0,0,0,,¡Leopardo!
+Dialogue: 0,0:34:54.93,0:34:57.10,Default,,0,0,0,,¡Leopardo!
+Dialogue: 0,0:35:13.00,0:35:14.07,Default,,0,0,0,,¡Confía en mí!
+Dialogue: 0,0:35:14.70,0:35:16.43,Default,,0,0,0,,Confío en ti
+Dialogue: 0,0:35:17.33,0:35:19.28,Default,,0,0,0,,¡Confiar en ti mis polainas!
+Dialogue: 0,0:35:27.13,0:35:29.57,Default,,0,0,0,,Así que planeó usarme desde el principio
+Dialogue: 0,0:35:30.00,0:35:32.43,Default,,0,0,0,,¿Tan fácil soy de engañar?
+Dialogue: 0,0:35:32.90,0:35:35.77,Default,,0,0,0,,¡Tres 6s, leopardo, jaja!
+Dialogue: 0,0:35:35.77,0:35:37.97,Default,,0,0,0,,¡No puede ser, realmente es un leopardo, jaja!
+Dialogue: 0,0:35:37.97,0:35:40.07,Default,,0,0,0,,Apostemos al leopardo otra vez
+Dialogue: 0,0:35:40.17,0:35:41.37,Default,,0,0,0,,Yo tambien apuesto por leopardo
+Dialogue: 0,0:35:45.58,0:35:47.58,Default,,0,0,0,,Busquenlo, está cerca
+Dialogue: 0,0:35:49.50,0:35:50.80,Default,,0,0,0,,Oye, ¿a dónde vas?
+Dialogue: 0,0:35:50.97,0:35:52.00,Default,,0,0,0,,Espérame aquí
+Dialogue: 0,0:36:55.00,0:36:55.75,Default,,0,0,0,,¿Dónde está la chica?
+Dialogue: 0,0:36:55.75,0:36:56.55,Default,,0,0,0,,Se fue
+Dialogue: 0,0:37:01.47,0:37:03.20,Default,,0,0,0,,Sabía que no debía confiar en ella
+Dialogue: 0,0:37:09.93,0:37:11.97,Default,,0,0,0,,¿A dónde fuiste? ¡Te he estado buscando!
+Dialogue: 0,0:37:18.40,0:37:19.43,Default,,0,0,0,,Como amigo...
+Dialogue: 0,0:37:19.67,0:37:20.80,Default,,0,0,0,,¿Debería compartir la mitad contigo?
+Dialogue: 0,0:37:21.00,0:37:21.90,Default,,0,0,0,,No, estoy bien
+Dialogue: 0,0:37:22.67,0:37:23.77,Default,,0,0,0,,¿Un dulce?
+Dialogue: 0,0:37:25.80,0:37:27.00,Default,,0,0,0,,Nunca como dulces...
+Dialogue: 0,0:37:27.53,0:37:28.83,Default,,0,0,0,,Ni hago amigos
+Dialogue: 0,0:37:29.96,0:37:31.25,Default,,0,0,0,,¿Entonces comeras nada?
+Dialogue: 0,0:37:31.29,0:37:31.87,Default,,0,0,0,,No voy a comer
+Dialogue: 0,0:37:33.57,0:37:35.63,Default,,0,0,0,,¡Realmente quieres decir que no comes, eh!
+Dialogue: 0,0:37:35.77,0:37:38.17,Default,,0,0,0,,Oye, ¿has visto alguna estrella de cine en la gran ciudad?
+Dialogue: 0,0:37:38.17,0:37:39.97,Default,,0,0,0,,¿Esas fiestas llenas de estrellas son de verdad?
+Dialogue: 0,0:37:39.97,0:37:40.97,Default,,0,0,0,,¿Crees que podamos recorrer toda la ciudad hoy?
+Dialogue: 0,0:37:40.97,0:37:42.40,Default,,0,0,0,,No, un día no...
+Dialogue: 0,0:37:42.40,0:37:46.00,Default,,0,0,0,,Tienes 21 horas y 36 minutos
+Dialogue: 0,0:37:46.00,0:37:48.25,Default,,0,0,0,,No pueden estar lejos, probablemente estén dentro de estas dos calles
+Dialogue: 0,0:37:49.80,0:37:51.13,Default,,0,0,0,,Encuentrenlos
+Dialogue: 0,0:37:52.04,0:37:52.59,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,0:37:52.60,0:37:53.10,Default,,0,0,0,,Ah
+Dialogue: 0,0:37:53.10,0:37:54.06,Default,,0,0,0,,Me están siguiendo
+Dialogue: 0,0:37:54.46,0:37:55.76,Default,,0,0,0,,Claro
+Dialogue: 0,0:37:56.75,0:37:57.75,Default,,0,0,0,,¡Ay, Dios mío! Una ráfaga de viento la trajo hasta aquí
+Dialogue: 0,0:37:57.88,0:37:58.28,Default,,0,0,0,,Jefe, quiero uno de sabor a fresa
+Dialogue: 0,0:37:58.30,0:38:00.63,Default,,0,0,0,,No, no, el de chocolate está bien. ¿Y tú?
+Dialogue: 0,0:38:00.63,0:38:02.73,Default,,0,0,0,,Mmm, ¿y tú, 17?
+Dialogue: 0,0:38:03.33,0:38:04.58,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:38:05.10,0:38:06.55,Default,,0,0,0,,Si compra dos le regalo unos globos
+Dialogue: 0,0:38:10.80,0:38:11.60,Default,,0,0,0,,Ey
+Dialogue: 0,0:38:41.60,0:38:42.40,Default,,0,0,0,,¿A dónde se fue?
+Dialogue: 0,0:38:43.71,0:38:45.20,Default,,0,0,0,,¡La rueda del tiempo!
+Dialogue: 0,0:38:48.47,0:38:53.00,Default,,0,0,0,,Oí que el Maestro Zuo envió gente a buscar un tesoro...
+Dialogue: 0,0:38:53.00,0:38:56.65,Default,,0,0,0,,Parece que está relacionado con el tipo que buscan, ¿verdad?
+Dialogue: 0,0:38:56.67,0:38:57.84,Default,,0,0,0,,Sí
+Dialogue: 0,0:38:57.87,0:39:01.17,Default,,0,0,0,,¡Atrapémoslo antes que esos tipos!
+Dialogue: 0,0:39:01.67,0:39:04.23,Default,,0,0,0,,¡Seguro que el Señor Zuo nos lo agradecerá!
+Dialogue: 0,0:39:04.55,0:39:07.35,Default,,0,0,0,,Entonces vamos a atraparlos
+Dialogue: 0,0:39:07.42,0:39:08.62,Default,,0,0,0,,Atrapenlos
+Dialogue: 0,0:39:08.71,0:39:14.27,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,0:39:17.53,0:39:19.60,Default,,0,0,0,,Tranquilo, te cubro la espalda...
+Dialogue: 0,0:39:19.77,0:39:20.97,Default,,0,0,0,,¡Nadie nos atrapará!
+Dialogue: 0,0:39:22.17,0:39:25.67,Default,,0,0,0,,¡Bienvenidos, pasen y pruébense lo que quieran!
+Dialogue: 0,0:39:25.67,0:39:27.43,Default,,0,0,0,,Devuelve la rueda del tiempo y estaré libre
+Dialogue: 0,0:39:27.42,0:39:28.54,Default,,0,0,0,,¡De ninguna manera!
+Dialogue: 0,0:39:28.57,0:39:30.20,Default,,0,0,0,,Tenemos un trato, ¿recuerdas?
+Dialogue: 0,0:39:30.20,0:39:31.57,Default,,0,0,0,,Consigue una cámara...
+Dialogue: 0,0:39:31.57,0:39:33.67,Default,,0,0,0,,Déjame vivir como la heroina de la pelicula...
+Dialogue: 0,0:39:33.67,0:39:34.60,Default,,0,0,0,,Por un día
+Dialogue: 0,0:39:36.77,0:39:38.57,Default,,0,0,0,,Entonces será tuya
+Dialogue: 0,0:39:39.93,0:39:41.03,Default,,0,0,0,,¿Qué estamos esperando?
+Dialogue: 0,0:39:42.70,0:39:43.57,Default,,0,0,0,,Vámonos
+Dialogue: 0,0:39:58.60,0:39:59.40,Default,,0,0,0,,Wow
+Dialogue: 0,0:40:01.17,0:40:02.10,Default,,0,0,0,,Me gusta...
+Dialogue: 0,0:40:03.67,0:40:04.77,Default,,0,0,0,,No hay opción...
+Dialogue: 0,0:40:04.79,0:40:06.79,Default,,0,0,0,,No está a la venta
+Dialogue: 0,0:40:09.10,0:40:10.30,Default,,0,0,0,,¿Quieres probarte otra cosa?
+Dialogue: 0,0:40:10.30,0:40:12.70,Default,,0,0,0,,¡Oye, tengo algo mejor para ti!
+Dialogue: 0,0:40:12.70,0:40:13.25,Default,,0,0,0,,¿De verdad?
+Dialogue: 0,0:40:15.37,0:40:16.17,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:40:16.37,0:40:18.83,Default,,0,0,0,,Este Hierro Negro Siempre Cambiante, ¿qué le pasa?
+Dialogue: 0,0:40:18.87,0:40:20.97,Default,,0,0,0,,¿Me voy a morir?
+Dialogue: 0,0:40:21.80,0:40:22.65,Default,,0,0,0,,Mira esto...
+Dialogue: 0,0:40:24.20,0:40:26.00,Default,,0,0,0,,Este patrón...
+Dialogue: 0,0:40:26.08,0:40:28.28,Default,,0,0,0,,Lo vi en una tabla de piedra en las montañas sagradas
+Dialogue: 0,0:40:29.37,0:40:32.97,Default,,0,0,0,,(Deletrea el hechizo)
+Dialogue: 0,0:40:33.73,0:40:34.53,Default,,0,0,0,,Ah
+Dialogue: 0,0:40:35.17,0:40:38.63,Default,,0,0,0,,Tú, ¿qué fue eso de Mo Mo Mush?
+Dialogue: 0,0:40:39.13,0:40:40.47,Default,,0,0,0,,Liberate del control del tiempo...
+Dialogue: 0,0:40:40.97,0:40:42.07,Default,,0,0,0,,¿Qué significa eso?
+Dialogue: 0,0:40:43.20,0:40:45.70,Default,,0,0,0,,Creo que has formado algún vínculo con la rueda del tiempo
+Dialogue: 0,0:40:46.00,0:40:47.57,Default,,0,0,0,,Por eso esta marca se ha quedado contigo.
+Dialogue: 0,0:40:47.57,0:40:50.47,Default,,0,0,0,,Entonces, ¿por qué no te la quedas y ves qué pasa?
+Dialogue: 0,0:40:51.07,0:40:53.22,Default,,0,0,0,,¿No tienes miedo de que me escape y te deje sola?
+Dialogue: 0,0:40:53.29,0:40:54.64,Default,,0,0,0,,¿Lo harás?
+Dialogue: 0,0:40:57.38,0:40:59.80,Default,,0,0,0,,Por supuesto que no, hicimos una promesa con el meñique
+Dialogue: 0,0:41:10.00,0:41:10.80,Default,,0,0,0,,Espera
+Dialogue: 0,0:41:22.33,0:41:23.40,Default,,0,0,0,,¿Por qué sigue aquí?
+Dialogue: 0,0:41:24.57,0:41:26.70,Default,,0,0,0,,Parece que solo tú puedes usar su poder.
+Dialogue: 0,0:41:46.04,0:41:47.14,Default,,0,0,0,,¡Atrapenlo!
+Dialogue: 0,0:41:59.10,0:42:00.25,Default,,0,0,0,,La tienda está cerrada
+Dialogue: 0,0:42:00.25,0:42:01.25,Default,,0,0,0,,Qué lástima, llegamos un tarde
+Dialogue: 0,0:42:01.50,0:42:02.35,Default,,0,0,0,,Sólo por un minuto tarde
+Dialogue: 0,0:42:04.77,0:42:06.50,Default,,0,0,0,,Si esos matones no nos estuvieran persiguiendo...
+Dialogue: 0,0:42:06.50,0:42:07.73,Default,,0,0,0,,¡No hubieramos llegado tarde!
+Dialogue: 0,0:42:07.73,0:42:10.53,Default,,0,0,0,,¿Y qué, puedes retroceder el tiempo o algo así?
+Dialogue: 0,0:42:10.53,0:42:14.03,Default,,0,0,0,,¡Tienes 20 horas y 47 minutos para devolverme mi pendiente!
+Dialogue: 0,0:42:15.37,0:42:18.27,Default,,0,0,0,,Aunque no pueda retroceder en el tiempo...
+Dialogue: 0,0:42:18.73,0:42:20.17,Default,,0,0,0,,Mientras yo quiera...
+Dialogue: 0,0:42:20.17,0:42:23.80,Default,,0,0,0,,Puedo quedarme atrapada en hoy, y este día...
+Dialogue: 0,0:42:24.00,0:42:26.40,Default,,0,0,0,,¡Será mi vida épica!
+Dialogue: 0,0:42:26.53,0:42:30.43,Default,,0,0,0,,¡Ajajajaja!
+Dialogue: 0,0:42:41.20,0:42:44.70,Default,,0,0,0,,Qué aburrido...
+Dialogue: 0,0:43:08.70,0:43:09.50,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,0:43:09.93,0:43:10.73,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,0:43:11.90,0:43:13.77,Default,,0,0,0,,¡Por aquí!
+Dialogue: 0,0:43:14.80,0:43:17.03,Default,,0,0,0,,Prometí que no te dejaría atrás.
+Dialogue: 0,0:43:20.25,0:43:21.33,Default,,0,0,0,,¿Qué significa esto?
+Dialogue: 0,0:43:21.37,0:43:23.97,Default,,0,0,0,,¡De hecho, encontré una manera de retroceder el tiempo!
+Dialogue: 0,0:43:24.53,0:43:25.83,Default,,0,0,0,,¿Nunca oíste hablar de eso?
+Dialogue: 0,0:43:25.97,0:43:29.50,Default,,0,0,0,,¡El tiempo es todo relativo!
+Dialogue: 0,0:43:29.77,0:43:31.04,Default,,0,0,0,,Cuanto más rápido vas...
+Dialogue: 0,0:43:31.13,0:43:34.00,Default,,0,0,0,,Más lento se mueve el tiempo
+Dialogue: 0,0:43:34.13,0:43:36.00,Default,,0,0,0,,¿Cuánto tiempo llevas jugando con la rueda del tiempo?
+Dialogue: 0,0:43:36.10,0:43:37.77,Default,,0,0,0,,¡No interrumpas, escucha!
+Dialogue: 0,0:43:38.47,0:43:40.93,Default,,0,0,0,,Si puedo moverme libremente cuando el tiempo está casi congelado...
+Dialogue: 0,0:43:40.93,0:43:41.90,Default,,0,0,0,,Eso significa...
+Dialogue: 0,0:43:41.90,0:43:45.70,Default,,0,0,0,,¡Mis habilidades se acercan a la velocidad de la luz!
+Dialogue: 0,0:43:45.87,0:43:47.27,Default,,0,0,0,,Velocidad de la luz
+Dialogue: 0,0:43:47.27,0:43:48.30,Default,,0,0,0,,Adivina...
+Dialogue: 0,0:43:48.30,0:43:50.60,Default,,0,0,0,,¿Qué pasa si superara la velocidad de la luz?
+Dialogue: 0,0:43:50.60,0:43:52.07,Default,,0,0,0,,Tú...
+Dialogue: 0,0:43:52.70,0:43:53.63,Default,,0,0,0,,Irías a una velocidad superluminal
+Dialogue: 0,0:43:54.13,0:43:56.70,Default,,0,0,0,,Me pregunto, ¿qué pasa si supero la velocidad de la luz?
+Dialogue: 0,0:43:56.70,0:43:58.27,Default,,0,0,0,,Entonces tú...
+Dialogue: 0,0:43:58.87,0:43:59.53,Default,,0,0,0,,¡Te convertirías en luz misma!
+Dialogue: 0,0:43:59.53,0:44:01.80,Default,,0,0,0,,¡Podría romper los límites del tiempo y el espacio!
+Dialogue: 0,0:44:01.80,0:44:02.97,Default,,0,0,0,,¡Saltar al pasado!
+Dialogue: 0,0:44:03.17,0:44:05.10,Default,,0,0,0,,¡A hace un minuto!
+Dialogue: 0,0:44:05.50,0:44:08.70,Default,,0,0,0,,¡Cuando la tienda todavía estaba abierta!
+Dialogue: 0,0:44:13.97,0:44:15.50,Default,,0,0,0,,Cuando alcance la luz...
+Dialogue: 0,0:44:15.97,0:44:17.70,Default,,0,0,0,,Alcanzaré el tiempo
+Dialogue: 0,0:44:18.90,0:44:21.70,Default,,0,0,0,,Qian Xiao, con cuidado
+Dialogue: 0,0:44:23.00,0:44:24.50,Default,,0,0,0,,Trae de vuelta la rueda del tiempo
+Dialogue: 0,0:44:26.50,0:44:28.50,Default,,0,0,0,,De acuerdo
+Dialogue: 0,0:44:29.30,0:44:30.30,Default,,0,0,0,,Lista
+Dialogue: 0,0:44:32.67,0:44:34.30,Default,,0,0,0,,¡No, no puedo hacerlo!
+Dialogue: 0,0:44:35.04,0:44:37.94,Default,,0,0,0,,¡Esa luz es demasiado rápida, tengo que acelerar!
+Dialogue: 0,0:44:38.00,0:44:39.84,Default,,0,0,0,,¡Una vez más! ¡Una vez más!
+Dialogue: 0,0:44:42.87,0:44:43.77,Default,,0,0,0,,Olvídalo...
+Dialogue: 0,0:44:44.53,0:44:45.60,Default,,0,0,0,,¡Otra vez!
+Dialogue: 0,0:44:53.73,0:44:54.77,Default,,0,0,0,,Estoy bien, estoy bien...
+Dialogue: 0,0:44:55.07,0:44:57.92,Default,,0,0,0,,No te preocupes por mí
+Dialogue: 0,0:45:45.50,0:45:46.25,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,0:45:46.25,0:45:47.90,Default,,0,0,0,,Es muy rápida
+Dialogue: 0,0:45:47.92,0:45:50.00,Default,,0,0,0,,Cuando corrí unos 10.000 metros...
+Dialogue: 0,0:45:50.00,0:45:53.00,Default,,0,0,0,,Sentí que podía ver la curvatura de la tierra
+Dialogue: 0,0:45:53.73,0:45:54.73,Default,,0,0,0,,¿Aún quieres intentarlo?
+Dialogue: 0,0:45:54.83,0:45:55.83,Default,,0,0,0,,Claro
+Dialogue: 0,0:45:56.37,0:45:58.40,Default,,0,0,0,,Pero primero tomaré descansaré un poco...
+Dialogue: 0,0:45:58.40,0:45:59.80,Default,,0,0,0,,De inmediato
+Dialogue: 0,0:46:30.46,0:46:33.18,Default,,0,0,0,,Jefe Wan, ellos se esconden ahí dentro
+Dialogue: 0,0:46:33.20,0:46:36.46,Default,,0,0,0,,Qué lastima, ahora tendre que intervenir yo mismo
+Dialogue: 0,0:46:36.50,0:46:39.19,Default,,0,0,0,,Ve y atrapalos tú mismo
+Dialogue: 0,0:46:40.69,0:46:41.58,Default,,0,0,0,,Vámonos
+Dialogue: 0,0:46:42.93,0:46:45.17,Default,,0,0,0,,¡Oye, oye, oye!
+Dialogue: 0,0:46:49.45,0:46:50.30,Default,,0,0,0,,Jefe Wan
+Dialogue: 0,0:46:50.33,0:46:53.83,Default,,0,0,0,,¿Por qué no nos avisaste cuando encontraste pistas sobre el criminal buscado?
+Dialogue: 0,0:46:53.83,0:46:55.26,Default,,0,0,0,,Señora 9 y Señor 10
+Dialogue: 0,0:46:55.37,0:46:58.37,Default,,0,0,0,,Solo intentaba capturarlos para ustedes, de veras
+Dialogue: 0,0:46:58.37,0:47:00.67,Default,,0,0,0,,Bien, te daré una oportunidad.
+Dialogue: 0,0:47:00.80,0:47:02.10,Default,,0,0,0,,Quédate con la chica.
+Dialogue: 0,0:47:02.50,0:47:03.67,Default,,0,0,0,,Al tipo...
+Dialogue: 0,0:47:04.20,0:47:05.17,Default,,0,0,0,,¡Mátalo!
+Dialogue: 0,0:47:11.33,0:47:12.13,Default,,0,0,0,,Mmm...
+Dialogue: 0,0:47:12.60,0:47:13.43,Default,,0,0,0,,Suban
+Dialogue: 0,0:48:04.60,0:48:06.40,Default,,0,0,0,,¡Rápido, bloqueen la puerta, deténganlos!
+Dialogue: 0,0:48:08.70,0:48:10.80,Default,,0,0,0,,Hermana, ¿esos dos están saliendo?
+Dialogue: 0,0:48:10.83,0:48:11.69,Default,,0,0,0,,No
+Dialogue: 0,0:48:11.70,0:48:14.87,Default,,0,0,0,,-Además ¿Quién saldría con una un tipa con trenzas?
+Dialogue: 0,0:48:12.79,0:48:14.87,Default,,0,0,0,,-¿Quién saldría con alguien con trastorno obsesivo-compulsivo?
+Dialogue: 0,0:48:14.97,0:48:15.77,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:48:42.05,0:48:44.31,Default,,0,0,0,,¡Rápido, atrápenlos!
+Dialogue: 0,0:49:15.93,0:49:18.20,Default,,0,0,0,,¿Te desperté?
+Dialogue: 0,0:49:18.90,0:49:20.63,Default,,0,0,0,,Entonces duerme un poco más
+Dialogue: 0,0:50:03.70,0:50:04.93,Default,,0,0,0,,Estás herido
+Dialogue: 0,0:50:06.60,0:50:08.40,Default,,0,0,0,,Devuélveme la rueda del tiempo esta noche.
+Dialogue: 0,0:50:08.40,0:50:10.62,Default,,0,0,0,,Esto ya no es asunto tuyo
+Dialogue: 0,0:50:14.80,0:50:16.45,Default,,0,0,0,,Ellos...
+Dialogue: 0,0:50:16.45,0:50:19.20,Default,,0,0,0,,Todos buscan el Trompo León de Hierro Negro Siempre Cambiante.
+Dialogue: 0,0:50:20.80,0:50:22.73,Default,,0,0,0,,Pisaste mi concha
+Dialogue: 0,0:50:27.29,0:50:30.65,Default,,0,0,0,,¿Por qué siempre haces estas cosas raras?
+Dialogue: 0,0:50:31.05,0:50:33.95,Default,,0,0,0,,¿Por qué siempre quieres vivir como una estrella de cine?
+Dialogue: 0,0:50:34.00,0:50:35.50,Default,,0,0,0,,Porque...
+Dialogue: 0,0:50:35.50,0:50:37.00,Default,,0,0,0,,¡La vida es preciosa!
+Dialogue: 0,0:50:37.00,0:50:39.23,Default,,0,0,0,,Perder el tiempo en cosas aburridas...
+Dialogue: 0,0:50:39.60,0:50:41.00,Default,,0,0,0,,¿Vale la pena?
+Dialogue: 0,0:50:41.95,0:50:43.70,Default,,0,0,0,,Cosas aburridas...
+Dialogue: 0,0:50:45.05,0:50:47.00,Default,,0,0,0,,¿Como ahora?
+Dialogue: 0,0:50:52.94,0:50:56.23,Default,,0,0,0,,Solía desear que el tiempo se acelerara
+Dialogue: 0,0:50:56.25,0:50:57.95,Default,,0,0,0,,Ahora pienso...
+Dialogue: 0,0:50:57.95,0:51:00.15,Default,,0,0,0,,Que si pudiera quedarme en este momento para siempre...
+Dialogue: 0,0:51:01.45,0:51:02.79,Default,,0,0,0,,Sería bastante agradable también
+Dialogue: 0,0:51:03.20,0:51:04.50,Default,,0,0,0,,Si no hiciera estas cosas...
+Dialogue: 0,0:51:04.50,0:51:07.10,Default,,0,0,0,,Me preocuparía que algo malo pudiera pasar.
+Dialogue: 0,0:51:07.10,0:51:09.45,Default,,0,0,0,,Pero, ¿qué podría pasar de malo?
+Dialogue: 0,0:51:09.50,0:51:11.50,Default,,0,0,0,,No tengo nada...
+Dialogue: 0,0:51:11.80,0:51:13.40,Default,,0,0,0,,Nada de qué preocuparse
+Dialogue: 0,0:51:15.50,0:51:17.65,Default,,0,0,0,,¿Y tu familia?
+Dialogue: 0,0:51:17.65,0:51:19.00,Default,,0,0,0,,El clan Zuo me crió
+Dialogue: 0,0:51:19.45,0:51:21.13,Default,,0,0,0,,Pensé que trayendo de vuelta la rueda del tiempo...
+Dialogue: 0,0:51:21.13,0:51:23.25,Default,,0,0,0,,Podría ganarme mi libertad...
+Dialogue: 0,0:51:23.25,0:51:24.40,Default,,0,0,0,,Dejar el clan Zuo para siempre
+Dialogue: 0,0:51:24.75,0:51:25.70,Default,,0,0,0,,Lo siento...
+Dialogue: 0,0:51:26.00,0:51:27.80,Default,,0,0,0,,No sabía que era tan importante para ti
+Dialogue: 0,0:51:27.84,0:51:29.84,Default,,0,0,0,,Te devolveré la rueda del tiempo ahora
+Dialogue: 0,0:51:29.85,0:51:31.04,Default,,0,0,0,,No es necesario
+Dialogue: 0,0:51:32.10,0:51:33.65,Default,,0,0,0,,¿Acaso no...
+Dialogue: 0,0:51:33.65,0:51:35.18,Default,,0,0,0,,Hicimos una promesa?
+Dialogue: 0,0:51:38.60,0:51:40.00,Default,,0,0,0,,Espera...
+Dialogue: 0,0:51:43.00,0:51:45.35,Default,,0,0,0,,Parece que no ha pasado nada malo
+Dialogue: 0,0:51:45.77,0:51:47.18,Default,,0,0,0,,¿Verdad?
+Dialogue: 0,0:51:53.57,0:51:55.57,Default,,0,0,0,,Así que no pasa nada por no ser perfecto
+Dialogue: 0,0:51:55.58,0:51:57.74,Default,,0,0,0,,Seguirá habiendo gente a la que le caigas bien
+Dialogue: 0,0:51:59.80,0:52:01.10,Default,,0,0,0,,Ya lo verás
+Dialogue: 0,0:52:01.10,0:52:02.28,Default,,0,0,0,,Los errores seguiran ocurriendo...
+Dialogue: 0,0:52:02.28,0:52:03.85,Default,,0,0,0,,Aunque los corrijas mil veces
+Dialogue: 0,0:52:04.50,0:52:05.44,Default,,0,0,0,,Pero estaré contigo
+Dialogue: 0,0:52:10.00,0:52:11.90,Default,,0,0,0,,¿Ya decidiste qué vas a hacer hoy?
+Dialogue: 0,0:52:12.05,0:52:13.15,Default,,0,0,0,,Sí
+Dialogue: 0,0:52:14.35,0:52:18.45,Default,,0,0,0,,Hay algo que tengo que hacer.
+Dialogue: 0,0:52:18.45,0:52:21.05,Default,,0,0,0,,Pero primero, tenemos que ir a una tienda de cámaras.
+Dialogue: 0,0:52:21.05,0:52:22.70,Default,,0,0,0,,Comamos primero y luego nos vamos
+Dialogue: 0,0:52:22.75,0:52:24.10,Default,,0,0,0,,¿Comer qué?
+Dialogue: 0,0:52:30.10,0:52:31.60,Default,,0,0,0,,¿Conseguiste esto para mí?
+Dialogue: 0,0:52:43.30,0:52:45.07,Default,,0,0,0,,AGOTADO
+Dialogue: 0,0:52:45.10,0:52:46.44,Default,,0,0,0,,La compraron
+Dialogue: 0,0:52:48.50,0:52:50.65,Default,,0,0,0,,¡Micrófono al aire!
+Dialogue: 0,0:52:51.30,0:52:54.25,Default,,0,0,0,,Este es mi primer paso de mi carrera como director
+Dialogue: 0,0:52:58.05,0:53:00.00,Default,,0,0,0,,¡Mira qué buena iluminación!
+Dialogue: 0,0:53:01.85,0:53:06.09,Default,,0,0,0,,¡Mira ese ritmo!
+Dialogue: 0,0:53:06.09,0:53:09.04,Default,,0,0,0,,¡Y ese espectáculo!
+Dialogue: 0,0:53:12.55,0:53:15.11,Default,,0,0,0,,¡Qué gran fluidez!
+Dialogue: 0,0:53:17.00,0:53:19.50,Default,,0,0,0,,Quiero esta cámara, nombra el precio
+Dialogue: 0,0:53:19.70,0:53:21.88,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:53:22.35,0:53:23.25,Default,,0,0,0,,Siendo honesta...
+Dialogue: 0,0:53:23.25,0:53:25.25,Default,,0,0,0,,¡Estoy a punto de hacer algo grande!
+Dialogue: 0,0:53:25.25,0:53:27.78,Default,,0,0,0,,Necesitamos esa cámara urgentemente para inmortalizar este asombroso día
+Dialogue: 0,0:53:29.05,0:53:30.15,Default,,0,0,0,,Damela
+Dialogue: 0,0:53:32.05,0:53:32.86,Default,,0,0,0,,¿Qué estás haciendo?
+Dialogue: 0,0:53:32.86,0:53:34.08,Default,,0,0,0,,Disculpa mi franqueza
+Dialogue: 0,0:53:34.08,0:53:36.35,Default,,0,0,0,,Pero no veo por qué tu día vale la pena filmarlo
+Dialogue: 0,0:53:52.54,0:53:55.69,Default,,0,0,0,,Tú... yo... ¡Wow wow wow!
+Dialogue: 0,0:53:56.20,0:53:58.37,Default,,0,0,0,,¡Santa heroína, qué majestuosa!
+Dialogue: 0,0:53:58.40,0:54:00.38,Default,,0,0,0,,¿Qué te parece si te hago una película?
+Dialogue: 0,0:54:00.40,0:54:01.08,Default,,0,0,0,,Hacer una película...
+Dialogue: 0,0:54:01.05,0:54:01.60,Default,,0,0,0,,Hacer una película
+Dialogue: 0,0:54:01.60,0:54:02.62,Default,,0,0,0,,¡Hacer una película!
+Dialogue: 0,0:54:02.60,0:54:03.75,Default,,0,0,0,,¿Qué tipo de película?
+Dialogue: 0,0:54:04.00,0:54:05.04,Default,,0,0,0,,Grabemos...
+Dialogue: 0,0:54:05.05,0:54:08.22,Default,,0,0,0,,Una película de artes marciales
+Dialogue: 0,0:54:08.30,0:54:10.10,Default,,0,0,0,,Buena categoría, ¿contra quién peleamos?
+Dialogue: 0,0:54:17.85,0:54:21.15,Default,,0,0,0,,¿Podrían dejarme solo, por favor?
+Dialogue: 0,0:54:21.25,0:54:23.40,Default,,0,0,0,,El jefe Wan está en la parte superior del edificio
+Dialogue: 0,0:54:23.40,0:54:24.90,Default,,0,0,0,,Búsquenlo
+Dialogue: 0,0:54:24.90,0:54:26.85,Default,,0,0,0,,Voy a empezar una nueva vida
+Dialogue: 0,0:54:35.85,0:54:37.85,Default,,0,0,0,,¿Este es tu set de grabación?
+Dialogue: 0,0:54:38.60,0:54:39.71,Default,,0,0,0,,Sí, aquí es
+Dialogue: 0,0:54:41.55,0:54:45.00,Default,,0,0,0,,Y ellos son parte de tu elenco
+Dialogue: 0,0:54:45.00,0:54:46.40,Default,,0,0,0,,Algunos actores
+Dialogue: 0,0:54:47.05,0:54:48.10,Default,,0,0,0,,¿Qué estás tramando?
+Dialogue: 0,0:54:48.10,0:54:49.95,Default,,0,0,0,,Hacer una película para sobre la lucha contra el crimen
+Dialogue: 0,0:54:50.05,0:54:52.00,Default,,0,0,0,,Nadie es tan tonto como para creer esa mentira
+Dialogue: 0,0:54:52.00,0:54:54.41,Default,,0,0,0,,¡Qué gran inversión!
+Dialogue: 0,0:54:58.70,0:54:59.04,Default,,0,0,0,,Lo ves
+Dialogue: 0,0:54:59.04,0:55:01.30,Default,,0,0,0,,¡He esperado toda mi vida por esta oportunidad!
+Dialogue: 0,0:55:01.30,0:55:03.00,Default,,0,0,0,,¡Una obra maestra!
+Dialogue: 0,0:55:03.00,0:55:04.13,Default,,0,0,0,,¡Elegiste al sujeto correcto!
+Dialogue: 0,0:55:04.13,0:55:04.67,Default,,0,0,0,,Permítanme presentarme...
+Dialogue: 0,0:55:04.67,0:55:05.50,Default,,0,0,0,,¡Soy el Director Sherl!
+Dialogue: 0,0:55:05.50,0:55:06.73,Default,,0,0,0,,¡Merifis Theo Son Lvov!
+Dialogue: 0,0:55:06.73,0:55:07.67,Default,,0,0,0,,¡Sergei Fredericks!
+Dialogue: 0,0:55:07.67,0:55:08.90,Default,,0,0,0,,¡Jean Andre Pola Vilson!
+Dialogue: 0,0:55:08.90,0:55:10.90,Default,,0,0,0,,¡Lab Wetori Charles Chiton!
+Dialogue: 0,0:55:12.37,0:55:13.87,Default,,0,0,0,,Amu
+Dialogue: 0,0:55:15.75,0:55:18.27,Default,,0,0,0,,Esos pectorales me impresionan
+Dialogue: 0,0:55:18.27,0:55:19.40,Default,,0,0,0,,¿Cuánto tiempo llevas en esto?
+Dialogue: 0,0:55:20.04,0:55:20.75,Default,,0,0,0,,Cinco o seis años
+Dialogue: 0,0:55:20.75,0:55:21.75,Default,,0,0,0,,Un veterano
+Dialogue: 0,0:55:21.75,0:55:23.75,Default,,0,0,0,,Es la primera vez que hago esto
+Dialogue: 0,0:55:23.75,0:55:24.90,Default,,0,0,0,,Así que por favor sean pacientes y sigan mis instrucciones
+Dialogue: 0,0:55:24.90,0:55:26.05,Default,,0,0,0,,¿Quién eres tú?
+Dialogue: 0,0:55:27.05,0:55:28.27,Default,,0,0,0,,Llámenme director, déjenme oirlo
+Dialogue: 0,0:55:28.27,0:55:29.65,Default,,0,0,0,,Te voy a sacar los ojos
+Dialogue: 0,0:55:48.76,0:55:51.25,Default,,0,0,0,,Son artistas marciales
+Dialogue: 0,0:55:51.25,0:55:51.95,Default,,0,0,0,,¡Interesante!
+Dialogue: 0,0:55:55.15,0:55:56.70,Default,,0,0,0,,Entonces ¿de qué trata exactamente esta historia?
+Dialogue: 0,0:55:56.70,0:56:00.20,Default,,0,0,0,,¡Es una historia de superhéroes!
+Dialogue: 0,0:56:00.20,0:56:02.62,Default,,0,0,0,,¡Superhéroes!
+Dialogue: 0,0:56:06.30,0:56:07.90,Default,,0,0,0,,¡Ah, ayúdenme, ayúdenme!
+Dialogue: 0,0:56:08.57,0:56:09.43,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,0:56:10.05,0:56:12.35,Default,,0,0,0,,¿Quieren pasar de este piso?
+Dialogue: 0,0:56:12.35,0:56:15.65,Default,,0,0,0,,¡Para pasar primero tienen que vencerme a mí, el Eunuco Yan!
+Dialogue: 0,0:56:15.70,0:56:18.00,Default,,0,0,0,,¡Técnica de palma dorada!
+Dialogue: 0,0:56:20.10,0:56:21.83,Default,,0,0,0,,¡Veamos el segundo piso!
+Dialogue: 0,0:56:21.83,0:56:23.90,Default,,0,0,0,,¡Qué profesionales, la toma quedó a la primera!
+Dialogue: 0,0:56:26.53,0:56:27.57,Default,,0,0,0,,¡Wow!
+Dialogue: 0,0:56:32.13,0:56:35.63,Default,,0,0,0,,¡Jajajajaja!
+Dialogue: 0,0:56:43.80,0:56:45.45,Default,,0,0,0,,Nos encontramos de nuevo
+Dialogue: 0,0:56:45.45,0:56:48.42,Default,,0,0,0,,¡No hay más escenas para ti!
+Dialogue: 0,0:56:52.10,0:56:53.35,Default,,0,0,0,,No es necesario
+Dialogue: 0,0:56:53.35,0:56:54.48,Default,,0,0,0,,Mira mis movimientos
+Dialogue: 0,0:57:23.70,0:57:28.67,Default,,0,0,0,,¡Jajajajaja!
+Dialogue: 0,0:57:31.00,0:57:31.80,Default,,0,0,0,,¡Jaja!
+Dialogue: 0,0:57:37.55,0:57:38.60,Default,,0,0,0,,Subamos las escaleras
+Dialogue: 0,0:57:49.00,0:57:50.40,Default,,0,0,0,,¡Escuchen, los de abajo!
+Dialogue: 0,0:57:50.40,0:57:52.10,Default,,0,0,0,,¡No dejen que suban más!
+Dialogue: 0,0:58:06.60,0:58:09.60,Default,,0,0,0,,¡Tomaron el ascensor!
+Dialogue: 0,0:58:12.55,0:58:14.15,Default,,0,0,0,,Pues entonces...
+Dialogue: 0,0:58:14.15,0:58:16.25,Default,,0,0,0,,Todos pueden irse temprano del trabajo
+Dialogue: 0,0:58:16.25,0:58:18.45,Default,,0,0,0,,Día tras día...
+Dialogue: 0,0:58:18.45,0:58:19.65,Default,,0,0,0,,Nunca pasa nada
+Dialogue: 0,0:58:23.75,0:58:25.55,Default,,0,0,0,,Es hora de irme a casa
+Dialogue: 0,0:58:26.30,0:58:28.55,Default,,0,0,0,,¡Señorita, perdóneme la vida!
+Dialogue: 0,0:58:28.80,0:58:31.30,Default,,0,0,0,,¡Tengo dinero, te daré lo que sea!
+Dialogue: 0,0:58:31.30,0:58:32.10,Default,,0,0,0,,No hace falta
+Dialogue: 0,0:58:33.10,0:58:35.30,Default,,0,0,0,,Entonces, ¿qué quieres, eh?
+Dialogue: 0,0:58:35.90,0:58:36.75,Default,,0,0,0,,¡No lo hagas!
+Dialogue: 0,0:58:40.65,0:58:44.22,Default,,0,0,0,,Espera, pasaste por todo esto y arruinaste mi negocio...
+Dialogue: 0,0:58:44.75,0:58:46.80,Default,,0,0,0,,¿Solo para hacerme cosquillas?
+Dialogue: 0,0:58:49.35,0:58:52.25,Default,,0,0,0,,Recuerda, ¡nadie se mete con mi gente!
+Dialogue: 0,0:58:52.50,0:58:53.75,Default,,0,0,0,,¿Quién es su gente?
+Dialogue: 0,0:58:53.75,0:58:54.85,Default,,0,0,0,,Yo
+Dialogue: 0,0:58:54.85,0:58:56.45,Default,,0,0,0,,Vete y cuéntaselo a 9 y a 10
+Dialogue: 0,0:58:56.45,0:58:59.05,Default,,0,0,0,,Le entregaré la rueda del tiempo al Sr. Zuo
+Dialogue: 0,0:58:59.10,0:59:00.10,Default,,0,0,0,,¿A dónde vamos ahora?
+Dialogue: 0,0:59:00.10,0:59:02.35,Default,,0,0,0,,A casa a prepararnos para el carnaval
+Dialogue: 0,0:59:02.35,0:59:03.50,Default,,0,0,0,,¿Carnaval?
+Dialogue: 0,0:59:03.50,0:59:04.85,Default,,0,0,0,,¡No van a ir a ninguna parte!
+Dialogue: 0,0:59:08.20,0:59:10.27,Default,,0,0,0,,¡Oh no, el control se rompió!
+Dialogue: 0,0:59:10.97,0:59:11.90,Default,,0,0,0,,¡Déjame intentarlo!
+Dialogue: 0,0:59:12.27,0:59:13.80,Default,,0,0,0,,Oye, ¿para qué es esta cosa?
+Dialogue: 0,0:59:13.85,0:59:15.35,Default,,0,0,0,,¡Para explotar todo el edificio!
+Dialogue: 0,0:59:15.40,0:59:16.20,Default,,0,0,0,,¡Boom!
+Dialogue: 0,0:59:16.95,0:59:18.88,Default,,0,0,0,,Explotarlo, ¡Okay, okay, okay!
+Dialogue: 0,0:59:19.45,0:59:20.45,Default,,0,0,0,,¿Por qué no funciona?
+Dialogue: 0,0:59:20.45,0:59:21.20,Default,,0,0,0,,Eh...
+Dialogue: 0,0:59:21.20,0:59:21.65,Default,,0,0,0,,Olvídalo
+Dialogue: 0,0:59:21.65,0:59:24.25,Default,,0,0,0,,¡No puede ser! ¡La película está a punto de llegar al clímax!
+Dialogue: 0,0:59:24.60,0:59:25.40,Default,,0,0,0,,¡Funciona!
+Dialogue: 0,0:59:31.55,0:59:33.40,Default,,0,0,0,,Sujétense
+Dialogue: 0,1:00:08.90,1:00:09.70,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,1:00:17.75,1:00:21.98,Default,,0,0,0,,Algunos dicen que ver películas triplica tu esperanza de vida
+Dialogue: 0,1:00:22.33,1:00:23.57,Default,,0,0,0,,Yo digo...
+Dialogue: 0,1:00:24.10,1:00:26.15,Default,,0,0,0,,¡Que no necesariamente!
+Dialogue: 0,1:00:31.10,1:00:33.05,Default,,0,0,0,,Pero aun así vale la pena...
+Dialogue: 0,1:00:33.05,1:00:36.00,Default,,0,0,0,,No me quedan remordimientos
+Dialogue: 0,1:00:38.80,1:00:43.30,Default,,0,0,0,,¿Por qué la gente tiene remordimientos?
+Dialogue: 0,1:00:44.40,1:00:47.15,Default,,0,0,0,,Por el tiempo
+Dialogue: 0,1:00:47.80,1:00:50.45,Default,,0,0,0,,El tiempo es irreversible
+Dialogue: 0,1:00:50.65,1:00:53.00,Default,,0,0,0,,Siempre avanzará
+Dialogue: 0,1:00:53.00,1:00:57.40,Default,,0,0,0,,Pero los dioses no tienen ese problema
+Dialogue: 0,1:00:57.40,1:01:00.15,Default,,0,0,0,,Trascienden el tiempo
+Dialogue: 0,1:01:00.15,1:01:03.00,Default,,0,0,0,,Lo controlan
+Dialogue: 0,1:01:07.35,1:01:09.85,Default,,0,0,0,,Si quiero volver al pasado...
+Dialogue: 0,1:01:11.65,1:01:14.75,Default,,0,0,0,,¿Me ayudaría un dios?
+Dialogue: 0,1:01:17.80,1:01:19.00,Default,,0,0,0,,Le traigo información Sr. Zuo
+Dialogue: 0,1:01:19.00,1:01:20.65,Default,,0,0,0,,No fue mi error
+Dialogue: 0,1:01:20.65,1:01:21.80,Default,,0,0,0,,Fue 17
+Dialogue: 0,1:01:21.80,1:01:23.75,Default,,0,0,0,,Había una chica que estaba junto con el
+Dialogue: 0,1:01:23.75,1:01:25.90,Default,,0,0,0,,El colgante de oro estás buscando...
+Dialogue: 0,1:01:25.90,1:01:27.80,Default,,0,0,0,,¡Está con ellos!
+Dialogue: 0,1:01:28.15,1:01:30.80,Default,,0,0,0,,¿Qué estaban haciendo en tu casa?
+Dialogue: 0,1:01:31.05,1:01:31.90,Default,,0,0,0,,¡Hacían una película!
+Dialogue: 0,1:01:31.90,1:01:34.00,Default,,0,0,0,,¿Qué dices?
+Dialogue: 0,1:01:34.00,1:01:36.80,Default,,0,0,0,,¡No estoy mintiendo!
+Dialogue: 0,1:01:36.80,1:01:40.80,Default,,0,0,0,,¡Dijeron también que iban a ir a un tipo carnaval de cine!
+Dialogue: 0,1:01:41.30,1:01:44.05,Default,,0,0,0,,Carnaval
+Dialogue: 0,1:01:44.80,1:01:47.55,Default,,0,0,0,,¿Quién más vio eso?
+Dialogue: 0,1:01:47.55,1:01:50.80,Default,,0,0,0,,Nadie, ¡solo yo!
+Dialogue: 0,1:01:56.90,1:01:58.80,Default,,0,0,0,,¡Albondigas, buñuelos de tofu, cangrejo grande!
+Dialogue: 0,1:02:00.65,1:02:02.25,Default,,0,0,0,,Déjenme decir unas palabras
+Dialogue: 0,1:02:03.20,1:02:06.05,Default,,0,0,0,,Es la primera vez que asisto en un banquete de celebración
+Dialogue: 0,1:02:06.05,1:02:07.40,Default,,0,0,0,,¡Y nuestra primera película también!
+Dialogue: 0,1:02:07.40,1:02:08.95,Default,,0,0,0,,¡Es la primera vez que actúo en una película!
+Dialogue: 0,1:02:08.95,1:02:10.95,Default,,0,0,0,,Me alegra mucho haber hecho tan buena amistad con ustedes
+Dialogue: 0,1:02:13.70,1:02:14.50,Default,,0,0,0,,¡Oh!
+Dialogue: 0,1:02:15.70,1:02:18.00,Default,,0,0,0,,Es la primera vez que...
+Dialogue: 0,1:02:18.65,1:02:19.95,Default,,0,0,0,,Como de una olla
+Dialogue: 0,1:02:25.77,1:02:28.37,Default,,0,0,0,,Hmph, ¡nunca eructo con refresco!
+Dialogue: 0,1:02:28.40,1:02:31.27,Default,,0,0,0,,¡Jajajajajaja!
+Dialogue: 0,1:02:33.85,1:02:35.05,Default,,0,0,0,,¡Jajajajaja, Amu, 17!
+Dialogue: 0,1:02:35.05,1:02:37.30,Default,,0,0,0,,Tengo que agradecerles por hacer mi sueño realidad
+Dialogue: 0,1:02:37.30,1:02:39.90,Default,,0,0,0,,Nunca pensé que mi vida podría ser tan épica
+Dialogue: 0,1:02:39.90,1:02:43.17,Default,,0,0,0,,Sentí que al fin interpretaba el papel de protagonista
+Dialogue: 0,1:02:43.45,1:02:44.90,Default,,0,0,0,,No lo hagas solo una vez
+Dialogue: 0,1:02:44.90,1:02:46.55,Default,,0,0,0,,Tenemos que hacer una secuela
+Dialogue: 0,1:02:46.55,1:02:47.35,Default,,0,0,0,,¿Una secuela?
+Dialogue: 0,1:02:47.51,1:02:50.26,Default,,0,0,0,,Claro, una vez que esto llegue al carnaval...
+Dialogue: 0,1:02:50.30,1:02:51.75,Default,,0,0,0,,¡Vamos a triunfar!
+Dialogue: 0,1:02:51.75,1:02:53.80,Default,,0,0,0,,Por supuesto que debemos de considerar una secuela
+Dialogue: 0,1:02:53.80,1:02:55.75,Default,,0,0,0,,¿Podemos ir al carnaval a ver películas?
+Dialogue: 0,1:02:55.75,1:02:57.25,Default,,0,0,0,,Conozco a la gente del cine
+Dialogue: 0,1:02:57.25,1:02:59.10,Default,,0,0,0,,Esperen a que empaque mi equipo
+Dialogue: 0,1:03:02.80,1:03:04.60,Default,,0,0,0,,¡Es el desfile del carnaval!
+Dialogue: 0,1:03:15.15,1:03:18.20,Default,,0,0,0,,¡Cuánta gente, visten tan genial!
+Dialogue: 0,1:03:32.05,1:03:34.55,Default,,0,0,0,,¿Qué es eso de allá?
+Dialogue: 0,1:03:35.40,1:03:37.27,Default,,0,0,0,,¡Qué animado, jajaja!
+Dialogue: 0,1:03:38.65,1:03:40.55,Default,,0,0,0,,La cena de despedida ha terminado...
+Dialogue: 0,1:03:40.55,1:03:42.65,Default,,0,0,0,,Es hora de devolver la rueda del tiempo
+Dialogue: 0,1:03:43.77,1:03:44.94,Default,,0,0,0,,¿Comida de despedida?
+Dialogue: 0,1:03:46.45,1:03:48.65,Default,,0,0,0,,Todo encuentro termina con una despedida
+Dialogue: 0,1:03:49.70,1:03:51.30,Default,,0,0,0,,La gente que conoces...
+Dialogue: 0,1:03:51.30,1:03:52.43,Default,,0,0,0,,Las cosas que suceden...
+Dialogue: 0,1:03:53.55,1:03:54.88,Default,,0,0,0,,Todo se acabará
+Dialogue: 0,1:03:56.30,1:03:57.65,Default,,0,0,0,,Seran olvidadas
+Dialogue: 0,1:03:58.55,1:03:59.88,Default,,0,0,0,,¿Olvidadas por quién?
+Dialogue: 0,1:04:00.40,1:04:02.60,Default,,0,0,0,,¡Este día ha sido filmado por la cámara!
+Dialogue: 0,1:04:02.60,1:04:04.40,Default,,0,0,0,,¡El mundo lo recordará para siempre!
+Dialogue: 0,1:04:06.30,1:04:08.40,Default,,0,0,0,,Yo también te recordaré
+Dialogue: 0,1:04:39.80,1:04:41.65,Default,,0,0,0,,Ven conmigo al carnaval
+Dialogue: 0,1:04:41.65,1:04:45.00,Default,,0,0,0,,Te devolveré el Trompo León de Hierro Negro Siempre Cambiante
+Dialogue: 0,1:04:47.80,1:04:49.60,Default,,0,0,0,,Oye, ¿qué esperas? ¡Vamos!
+Dialogue: 0,1:04:49.93,1:04:51.30,Default,,0,0,0,,Amu
+Dialogue: 0,1:04:51.30,1:04:52.80,Default,,0,0,0,,¿Puedes hacerme un favor?
+Dialogue: 0,1:04:55.60,1:04:58.63,Default,,0,0,0,,¡Jajajaja!
+Dialogue: 0,1:05:02.90,1:05:05.45,Default,,0,0,0,,¡Rápido, rápido, está justo delante!
+Dialogue: 0,1:05:16.15,1:05:19.05,Default,,0,0,0,,¡Qué dragón tan enorme!
+Dialogue: 0,1:05:21.15,1:05:22.05,Default,,0,0,0,,¡Mira allí!
+Dialogue: 0,1:05:22.80,1:05:24.93,Default,,0,0,0,,¡Creo que la vi en una película!
+Dialogue: 0,1:05:27.25,1:05:29.05,Default,,0,0,0,,¡El cine está por allá!
+Dialogue: 0,1:05:29.05,1:05:29.95,Default,,0,0,0,,¿A dónde se fueron?
+Dialogue: 0,1:05:29.95,1:05:32.15,Default,,0,0,0,,Mi clienta habitual ¿Que desea?
+Dialogue: 0,1:05:32.15,1:05:32.75,Default,,0,0,0,,¡Quiero ese!
+Dialogue: 0,1:05:32.75,1:05:34.80,Default,,0,0,0,,El que quieres comprar ya se agotó
+Dialogue: 0,1:05:34.80,1:05:37.05,Default,,0,0,0,,El último se lo vendí a un niño
+Dialogue: 0,1:05:37.60,1:05:39.27,Default,,0,0,0,,¡Amm!
+Dialogue: 0,1:05:40.00,1:05:42.75,Default,,0,0,0,,Niño...
+Dialogue: 0,1:05:44.35,1:05:46.30,Default,,0,0,0,,Mi padre tenía razón...
+Dialogue: 0,1:05:46.30,1:05:48.07,Default,,0,0,0,,Todo hombre...
+Dialogue: 0,1:05:48.45,1:05:51.88,Default,,0,0,0,,Está destinado a enamorarse de una mujer
+Dialogue: 0,1:05:51.95,1:05:54.80,Default,,0,0,0,,¿Quizás te debía algo en una vida pasada?
+Dialogue: 0,1:05:54.80,1:05:55.35,Default,,0,0,0,,Mujeres...
+Dialogue: 0,1:05:55.35,1:05:56.60,Default,,0,0,0,,¿Dónde está tu helado?
+Dialogue: 0,1:05:56.60,1:05:58.80,Default,,0,0,0,,Compra uno y comételo
+Dialogue: 0,1:06:08.30,1:06:10.80,Default,,0,0,0,,¿Dónde te encontraré después de dejar el clan Zuo?
+Dialogue: 0,1:06:10.80,1:06:11.95,Default,,0,0,0,,¿En la playa?
+Dialogue: 0,1:06:11.95,1:06:13.20,Default,,0,0,0,,Quiero llevarte de paseo en un barco
+Dialogue: 0,1:06:13.20,1:06:15.45,Default,,0,0,0,,Visitaremos el pueblo donde solía vivir
+Dialogue: 0,1:06:15.45,1:06:17.02,Default,,0,0,0,,¡Te encantaría ese lugar!
+Dialogue: 0,1:06:20.90,1:06:24.10,Default,,0,0,0,,Pero la temporada de pesca acaba de terminar
+Dialogue: 0,1:06:24.10,1:06:26.25,Default,,0,0,0,,Hay que esperar a que los cangrejos estén más gordos...
+Dialogue: 0,1:06:26.25,1:06:27.58,Default,,0,0,0,,¡Y eso es dentro de un año!
+Dialogue: 0,1:06:29.80,1:06:32.55,Default,,0,0,0,,Ojalá nos hubiéramos conocido antes...
+Dialogue: 0,1:06:32.55,1:06:35.10,Default,,0,0,0,,Ojalá hubiera llegado antes a la gran ciudad...
+Dialogue: 0,1:06:38.20,1:06:41.05,Default,,0,0,0,,Tendríamos más tiempo para pasar juntos
+Dialogue: 0,1:06:46.80,1:06:48.55,Default,,0,0,0,,Aún no es demasiado tarde
+Dialogue: 0,1:06:53.37,1:06:54.17,Default,,0,0,0,,¡Ahí están!
+Dialogue: 0,1:06:57.67,1:06:58.47,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:07:01.33,1:07:04.00,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,1:07:04.77,1:07:05.67,Default,,0,0,0,,¡Jaja!
+Dialogue: 0,1:07:07.30,1:07:08.55,Default,,0,0,0,,Sígueme
+Dialogue: 0,1:07:22.90,1:07:24.30,Default,,0,0,0,,Ven conmigo
+Dialogue: 0,1:07:30.45,1:07:31.80,Default,,0,0,0,,En la gran ciudad...
+Dialogue: 0,1:07:31.80,1:07:34.07,Default,,0,0,0,,El tiempo vuela en un abrir y cerrar de ojos
+Dialogue: 0,1:07:34.25,1:07:37.55,Default,,0,0,0,,¿Es emocionante una vida así?
+Dialogue: 0,1:07:39.55,1:07:41.40,Default,,0,0,0,,Cuando estoy con él...
+Dialogue: 0,1:07:41.40,1:07:44.00,Default,,0,0,0,,Siento que el tiempo se va más lento
+Dialogue: 0,1:07:44.00,1:07:45.95,Default,,0,0,0,,Está bien...
+Dialogue: 0,1:07:50.05,1:07:50.85,Default,,0,0,0,,¡Muévete!
+Dialogue: 0,1:08:15.05,1:08:16.50,Default,,0,0,0,,Qian Xiao...
+Dialogue: 0,1:08:16.50,1:08:17.80,Default,,0,0,0,,¿Quieres bailar?
+Dialogue: 0,1:08:26.35,1:08:29.40,Default,,0,0,0,,Si tardamos, nos lo perderemos
+Dialogue: 0,1:08:32.55,1:08:35.30,Default,,0,0,0,,Olvídalo, no sé bailar...
+Dialogue: 0,1:08:40.90,1:08:44.25,Default,,0,0,0,,Este instante...
+Dialogue: 0,1:08:44.25,1:08:48.70,Default,,0,0,0,,Si el tiempo pudiera congelarse en este instante...
+Dialogue: 0,1:09:26.00,1:09:28.50,Default,,0,0,0,,Dijiste que todo lo que la cámara grabó...
+Dialogue: 0,1:09:28.50,1:09:30.90,Default,,0,0,0,,Será recordado por el mundo...
+Dialogue: 0,1:09:30.90,1:09:33.85,Default,,0,0,0,,Pero comparado con ser recordado por el mundo...
+Dialogue: 0,1:09:33.85,1:09:36.05,Default,,0,0,0,,Prefiero que tú me recuerdes...
+Dialogue: 0,1:09:50.95,1:09:52.30,Default,,0,0,0,,Espera a que vuelva
+Dialogue: 0,1:09:52.30,1:09:53.60,Default,,0,0,0,,Iremos juntos a la playa
+Dialogue: 0,1:09:54.05,1:09:54.80,Default,,0,0,0,,¿Lo prometes?
+Dialogue: 0,1:11:06.40,1:11:08.30,Default,,0,0,0,,Mmm, ¿por qué esos dos no han llegado todavía?
+Dialogue: 0,1:11:18.05,1:11:20.65,Default,,0,0,0,,Dije...
+Dialogue: 0,1:11:20.65,1:11:24.05,Default,,0,0,0,,Quien traiga de vuelta la rueda del tiempo, viviría
+Dialogue: 0,1:11:24.05,1:11:25.80,Default,,0,0,0,,¡Por favor, perdónenos Señor Zuo!
+Dialogue: 0,1:11:25.80,1:11:26.95,Default,,0,0,0,,Mátalos
+Dialogue: 0,1:11:26.95,1:11:28.45,Default,,0,0,0,,Te concederé la libertad
+Dialogue: 0,1:11:35.35,1:11:38.20,Default,,0,0,0,,El antiguo tú no dudaría
+Dialogue: 0,1:11:38.20,1:11:39.55,Default,,0,0,0,,El antiguo yo...
+Dialogue: 0,1:11:39.55,1:11:43.35,Default,,0,0,0,,No entendía por qué harías cualquier cosa por la rueda
+Dialogue: 0,1:11:43.35,1:11:44.85,Default,,0,0,0,,Ahora lo entiendo
+Dialogue: 0,1:11:44.85,1:11:47.80,Default,,0,0,0,,Pero incluso si la rueda puede retroceder el tiempo...
+Dialogue: 0,1:11:47.80,1:11:51.65,Default,,0,0,0,,¿Pueden los muertos volver?
+Dialogue: 0,1:11:51.65,1:11:53.60,Default,,0,0,0,,Además, una vez que la rueda empieza a girar hacia atrás... 
+Dialogue: 0,1:11:53.60,1:11:55.60,Default,,0,0,0,,Mucha gente inocente podría morir
+Dialogue: 0,1:12:00.65,1:12:03.05,Default,,0,0,0,,¡No, no!
+Dialogue: 0,1:12:22.55,1:12:23.65,Default,,0,0,0,,¡No!
+Dialogue: 0,1:12:24.30,1:12:27.95,Default,,0,0,0,,¡Nadie me los quitará!
+Dialogue: 0,1:12:35.10,1:12:37.45,Default,,0,0,0,,Haré que el tiempo...
+Dialogue: 0,1:12:37.45,1:12:40.55,Default,,0,0,0,,¡Retroceda diez años!
+Dialogue: 0,1:13:16.10,1:13:19.25,Default,,0,0,0,,Estuvieron allí esa noche hace diez años
+Dialogue: 0,1:13:27.10,1:13:28.20,Default,,0,0,0,,Justo ahora...
+Dialogue: 0,1:13:28.20,1:13:31.25,Default,,0,0,0,,Una luz cegadora se disparó hacia el cielo
+Dialogue: 0,1:13:31.25,1:13:33.45,Default,,0,0,0,,La tierra tembló ¡las casas se derrumbaron!
+Dialogue: 0,1:13:33.45,1:13:35.80,Default,,0,0,0,,¡La gente huyó del pánico!
+Dialogue: 0,1:13:35.80,1:13:37.30,Default,,0,0,0,,¿Qué sucedió?
+Dialogue: 0,1:13:37.75,1:13:40.40,Default,,0,0,0,,¡Este será un material muy valioso!
+Dialogue: 0,1:13:40.40,1:13:41.95,Default,,0,0,0,,¿Por qué estas brillando?
+Dialogue: 0,1:13:43.27,1:13:44.07,Default,,0,0,0,,¡Ah!
+Dialogue: 0,1:13:59.25,1:14:03.05,Default,,0,0,0,,¡No!
+Dialogue: 0,1:14:10.95,1:14:12.30,Default,,0,0,0,,17
+Dialogue: 0,1:14:12.30,1:14:13.40,Default,,0,0,0,,¿A dónde vas?
+Dialogue: 0,1:14:13.40,1:14:14.05,Default,,0,0,0,,¡Voy salvarlo!
+Dialogue: 0,1:14:14.05,1:14:15.20,Default,,0,0,0,,¡Reacciona!
+Dialogue: 0,1:14:15.20,1:14:17.03,Default,,0,0,0,,Sin superpoderes, ¿cómo lo vas a salvar?
+Dialogue: 0,1:14:17.05,1:14:18.80,Default,,0,0,0,,¿Quieres morir? ¡Vénceme primero!
+Dialogue: 0,1:14:19.95,1:14:22.50,Default,,0,0,0,,Bien, admito que eres más fuerte que yo...
+Dialogue: 0,1:14:22.50,1:14:25.05,Default,,0,0,0,,¡Pero esos tipos de allá tienen armas!
+Dialogue: 0,1:14:28.40,1:14:30.00,Default,,0,0,0,,17 me pidió que te diera esto
+Dialogue: 0,1:14:35.45,1:14:38.20,Default,,0,0,0,,Entiendes por qué hace esto, ¿verdad?
+Dialogue: 0,1:14:39.85,1:14:40.80,Default,,0,0,0,,Sí
+Dialogue: 0,1:14:40.80,1:14:42.75,Default,,0,0,0,,Para que pueda vestirme bien para la película y para protegernos
+Dialogue: 0,1:14:42.75,1:14:44.40,Default,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,1:14:49.10,1:14:50.03,Default,,0,0,0,,Dije...
+Dialogue: 0,1:14:50.90,1:14:52.45,Default,,0,0,0,,Nadie se mete con mi gente
+Dialogue: 0,1:14:52.45,1:14:53.55,Default,,0,0,0,,¡Jefe!
+Dialogue: 0,1:14:53.95,1:14:55.30,Default,,0,0,0,,¡Llévame a la plaza de adelante!
+Dialogue: 0,1:15:00.10,1:15:03.55,Default,,0,0,0,,Sube, ¿en quién más vas a confiar sino en tus amigos?
+Dialogue: 0,1:15:03.55,1:15:06.75,Default,,0,0,0,,¡Adelante!
+Dialogue: 0,1:15:12.05,1:15:13.05,Default,,0,0,0,,¡Hermana!
+Dialogue: 0,1:15:13.05,1:15:14.70,Default,,0,0,0,,¡No!
+Dialogue: 0,1:15:21.70,1:15:24.00,Default,,0,0,0,,¡Mátenlos!
+Dialogue: 0,1:15:33.05,1:15:34.05,Default,,0,0,0,,Suéltame
+Dialogue: 0,1:15:59.30,1:16:01.05,Default,,0,0,0,,¡17!
+Dialogue: 0,1:16:01.30,1:16:02.80,Default,,0,0,0,,¡17!
+Dialogue: 0,1:16:02.80,1:16:04.05,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,1:16:04.05,1:16:05.30,Default,,0,0,0,,¡La rueda del tiempo está aquí!
+Dialogue: 0,1:16:10.15,1:16:11.30,Default,,0,0,0,,¿Qué dijo?
+Dialogue: 0,1:16:11.30,1:16:12.40,Default,,0,0,0,,En una crisis como esta...
+Dialogue: 0,1:16:12.40,1:16:13.80,Default,,0,0,0,,¿Estará confesando su amor?
+Dialogue: 0,1:16:14.80,1:16:17.90,Default,,0,0,0,,¡Dije que la rueda está aquí!
+Dialogue: 0,1:16:17.90,1:16:21.05,Default,,0,0,0,,¡A mí también me gustas!
+Dialogue: 0,1:16:21.95,1:16:25.05,Default,,0,0,0,,¡Me refería a tu Trompo León de Hierro Negro Siempre Cambiante!
+Dialogue: 0,1:16:25.05,1:16:27.15,Default,,0,0,0,,¡Dijo que me invitaría a comer una piña!
+Dialogue: 0,1:16:27.80,1:16:30.65,Default,,0,0,0,,No, el Trompo León de Hierro Negro Siempre Cambiante!
+Dialogue: 0,1:16:30.65,1:16:33.05,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,1:16:33.05,1:16:34.65,Default,,0,0,0,,Estoy bien, vete rápido
+Dialogue: 0,1:16:34.65,1:16:36.55,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,1:16:51.90,1:16:53.55,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,1:16:54.05,1:16:56.60,Default,,0,0,0,,¡Atrápalo!
+Dialogue: 0,1:17:37.80,1:17:38.96,Default,,0,0,0,,¡Mamá!
+Dialogue: 0,1:17:46.40,1:17:48.50,Default,,0,0,0,,De ahora en adelante...
+Dialogue: 0,1:17:49.35,1:17:52.15,Default,,0,0,0,,El Trompo León de Hierro Negro Siempre Cambiante es mío, ¿verdad?
+Dialogue: 0,1:17:53.90,1:17:55.90,Default,,0,0,0,,Esta vez, ¿un año?
+Dialogue: 0,1:17:55.90,1:17:57.80,Default,,0,0,0,,¿O un día?
+Dialogue: 0,1:18:00.65,1:18:02.20,Default,,0,0,0,,¿Qué te parece si...
+Dialogue: 0,1:18:02.75,1:18:04.15,Default,,0,0,0,,toda la vida?
+Dialogue: 0,1:18:06.10,1:18:07.95,Default,,0,0,0,,17...
+Dialogue: 0,1:18:32.40,1:18:35.95,Default,,0,0,0,,¡Qian Xiao se coló en ese barquito anoche!
+Dialogue: 0,1:18:35.95,1:18:38.80,Default,,0,0,0,,Dicen que el barco no llegó muy lejos antes de chocar...
+Dialogue: 0,1:18:38.80,1:18:41.90,Default,,0,0,0,,¡Dicen que chocó contra un barco grande!
+Dialogue: 0,1:18:41.90,1:18:44.57,Default,,0,0,0,,¿De dónde salió un barco grande por aquí?
+Dialogue: 0,1:18:44.65,1:18:46.25,Default,,0,0,0,,¡Ve a ver!
+Dialogue: 0,1:19:02.60,1:19:04.27,Default,,0,0,0,,Tengo el honor de ser quien cuente...
+Dialogue: 0,1:19:04.27,1:19:07.45,Default,,0,0,0,,Sus historias...
+Dialogue: 0,1:19:03.80,1:19:29.25,Default,,0,0,0,,{\an4}HACE 50 AÑOS
+Dialogue: 0,1:19:09.25,1:19:10.80,Default,,0,0,0,,¿Quién lo hubiera pensado?
+Dialogue: 0,1:19:10.80,1:19:12.60,Default,,0,0,0,,Una chica del pueblo...
+Dialogue: 0,1:19:12.60,1:19:14.30,Default,,0,0,0,,Por mero accidente...
+Dialogue: 0,1:19:14.30,1:19:16.52,Default,,0,0,0,,Obtuvo el poder de la rueda del tiempo
+Dialogue: 0,1:19:18.90,1:19:21.60,Default,,0,0,0,,Y mientras la rueda del tiempo le salvó la vida...
+Dialogue: 0,1:19:21.60,1:19:24.05,Default,,0,0,0,,La hizo dejar de envejecer para siempre...
+Dialogue: 0,1:19:24.05,1:19:26.50,Default,,0,0,0,,Viviendo en este mundo eternamente
+Dialogue: 0,1:19:29.65,1:19:31.15,Default,,0,0,0,,Después del carnaval
+Dialogue: 0,1:19:31.15,1:19:33.20,Default,,0,0,0,,El Sr. Zuo desapareció
+Dialogue: 0,1:19:33.20,1:19:34.65,Default,,0,0,0,,Y para escapar del caos
+Dialogue: 0,1:19:34.65,1:19:38.45,Default,,0,0,0,,Decidieron dejar la gran ciudad
+Dialogue: 0,1:19:39.20,1:19:41.95,Default,,0,0,0,,¿Tienen que llevarse la cámara?
+Dialogue: 0,1:19:42.70,1:19:43.75,Default,,0,0,0,,Hasta luego
+Dialogue: 0,1:19:46.30,1:19:48.15,Default,,0,0,0,,¡No olviden escribirme!
+Dialogue: 0,1:19:48.15,1:19:49.15,Default,,0,0,0,,¡Claro!
+Dialogue: 0,1:19:50.05,1:19:51.15,Default,,0,0,0,,¡Una carta de Amu!
+Dialogue: 0,1:19:52.85,1:19:55.80,Default,,0,0,0,,Sé fueron juntos a muchos lugares...
+Dialogue: 0,1:19:55.80,1:19:56.35,Default,,0,0,0,,Espera
+Dialogue: 0,1:19:57.30,1:19:57.95,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,1:19:57.95,1:19:59.95,Default,,0,0,0,,Pasaron muchas cosas interesantes...
+Dialogue: 0,1:20:00.15,1:20:00.90,Default,,0,0,0,,Mira
+Dialogue: 0,1:20:01.50,1:20:02.67,Default,,0,0,0,,¡Está nevando!
+Dialogue: 0,1:20:03.30,1:20:04.80,Default,,0,0,0,,Feliz solsticio de invierno
+Dialogue: 0,1:20:04.80,1:20:05.75,Default,,0,0,0,,Mira
+Dialogue: 0,1:20:06.50,1:20:07.90,Default,,0,0,0,,¿Conseguiste esto para mí?
+Dialogue: 0,1:20:09.53,1:20:11.67,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,1:20:12.00,1:20:12.80,Default,,0,0,0,,Jajaja
+Dialogue: 0,1:20:13.30,1:20:14.75,Default,,0,0,0,,¡Ah, cierto!
+Dialogue: 0,1:20:14.75,1:20:18.70,Default,,0,0,0,,Incluso tienen un perro con una oreja más arriba que la otra
+Dialogue: 0,1:20:22.80,1:20:25.15,Default,,0,0,0,,¡Carnaval, carnaval!
+Dialogue: 0,1:20:43.05,1:20:46.35,Default,,0,0,0,,Ojalá el tiempo pudiera ir más lento...
+Dialogue: 0,1:20:48.00,1:20:50.55,Default,,0,0,0,,Porque cuando el tiempo se termina...
+Dialogue: 0,1:20:52.20,1:20:54.65,Default,,0,0,0,,Es el adiós
+Dialogue: 0,1:21:32.10,1:21:33.35,Default,,0,0,0,,Más tarde...
+Dialogue: 0,1:21:33.85,1:21:36.40,Default,,0,0,0,,Oí que se mudaron muchas veces
+Dialogue: 0,1:21:38.65,1:21:42.10,Default,,0,0,0,,Pero ha pasado mucho tiempo desde su última carta
+Dialogue: 0,1:21:47.50,1:21:48.78,Default,,0,0,0,,¿Tienes sed?
+Dialogue: 0,1:21:49.25,1:21:50.50,Default,,0,0,0,,Espérame un momento...
+Dialogue: 0,1:21:58.15,1:21:59.30,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,1:21:59.80,1:22:00.55,Default,,0,0,0,,¿Qué ocurre?
+Dialogue: 0,1:22:10.40,1:22:12.65,Default,,0,0,0,,¿Qué estas preparando? ¡Huele de maravilla!
+Dialogue: 0,1:22:14.70,1:22:16.00,Default,,0,0,0,,¿17?
+Dialogue: 0,1:22:16.00,1:22:17.40,Default,,0,0,0,,¡17!
+Dialogue: 0,1:22:46.10,1:22:47.40,Default,,0,0,0,,Decidí por mi cuenta...
+Dialogue: 0,1:22:47.40,1:22:50.27,Default,,0,0,0,,Convertir su historia en una película...
+Dialogue: 0,1:22:50.27,1:22:52.30,Default,,0,0,0,,Y la escribí en un libro
+Dialogue: 0,1:22:53.20,1:22:57.53,Default,,0,0,0,,Espero que no se enojen al ver esto...
+Dialogue: 0,1:22:58.15,1:22:59.65,Default,,0,0,0,,Incluso si se molestan...
+Dialogue: 0,1:22:59.65,1:23:01.30,Default,,0,0,0,,No podrán hacer nada...
+Dialogue: 0,1:23:02.05,1:23:03.75,Default,,0,0,0,,Para cuando lo vean...
+Dialogue: 0,1:23:03.75,1:23:07.80,Default,,0,0,0,,No podrán venir por mí
+Dialogue: 0,1:23:38.90,1:23:40.40,Default,,0,0,0,,17
+Dialogue: 0,1:24:04.30,1:24:06.90,Default,,0,0,0,,Después de tantos años buscandolos
+Dialogue: 0,1:24:08.25,1:24:13.80,Default,,0,0,0,,¡Sabía que aparecerían aquí!
+Dialogue: 0,1:24:33.05,1:24:34.30,Default,,0,0,0,,Ya despertaste
+Dialogue: 0,1:24:34.30,1:24:36.77,Default,,0,0,0,,¿Dónde estoy?
+Dialogue: 0,1:24:36.77,1:24:38.05,Default,,0,0,0,,En tu nueva casa
+Dialogue: 0,1:24:39.90,1:24:41.55,Default,,0,0,0,,¿Nueva casa?
+Dialogue: 0,1:24:43.15,1:24:44.30,Default,,0,0,0,,Tú...
+Dialogue: 0,1:24:46.02,1:24:48.90,Default,,0,0,0,,¿Eres un proyeccionista de cine?
+Dialogue: 0,1:24:48.90,1:24:50.30,Default,,0,0,0,,Viejo...
+Dialogue: 0,1:25:00.60,1:25:02.65,Default,,0,0,0,,Olvidándolo todo...
+Dialogue: 0,1:25:02.65,1:25:06.80,Default,,0,0,0,,Quizás sea la única forma de escapar de esta maldición...
+Dialogue: 0,1:25:09.60,1:25:12.65,Default,,0,0,0,,¡Una pelea!
+Dialogue: 0,1:25:12.65,1:25:15.80,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,1:25:16.35,1:25:19.40,Default,,0,0,0,,¡Oye, viejo, tu cámara está rota!
+Dialogue: 0,1:25:19.40,1:25:21.05,Default,,0,0,0,,¡Te conseguiré una nueva en la gran ciudad!
+Dialogue: 0,1:25:21.05,1:25:23.15,Default,,0,0,0,,¡Nunca he estado en la gran ciudad!
+Dialogue: 0,1:25:23.52,1:25:25.27,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,1:25:25.27,1:25:26.20,Default,,0,0,0,,¡Qian Xiao!
+Dialogue: 0,1:25:26.20,1:25:31.15,Default,,0,0,0,,¡Iré a la gran ciudad!
+Dialogue: 0,1:25:36.05,1:25:38.05,Default,,0,0,0,,¡Ayuda!
+Dialogue: 0,1:25:38.45,1:25:40.35,Default,,0,0,0,,¡Ayuda!
+Dialogue: 0,1:26:54.65,1:26:57.51,Default,,0,0,0,,Estos tres años...
+Dialogue: 0,1:26:57.51,1:27:00.45,Default,,0,0,0,,Lo intenté todo...
+Dialogue: 0,1:27:00.45,1:27:03.55,Default,,0,0,0,,Para hacer que la rueda del tiempo funcione
+Dialogue: 0,1:27:04.55,1:27:06.15,Default,,0,0,0,,Parece que no me reconoce...
+Dialogue: 0,1:27:06.15,1:27:06.85,Default,,0,0,0,,¡Déjame ir!
+Dialogue: 0,1:27:06.85,1:27:08.40,Default,,0,0,0,,Porque...
+Dialogue: 0,1:27:09.10,1:27:12.55,Default,,0,0,0,,¡Aún sigues con vida!
+Dialogue: 0,1:27:14.20,1:27:16.80,Default,,0,0,0,,Para encontrar la rueda del tiempo...
+Dialogue: 0,1:27:16.80,1:27:19.77,Default,,0,0,0,,Desperdicié la mitad de mi vida
+Dialogue: 0,1:27:19.77,1:27:22.05,Default,,0,0,0,,¿Por qué tú?
+Dialogue: 0,1:27:22.05,1:27:26.75,Default,,0,0,0,,¿Tienes ese cuerpo que nunca envejece?
+Dialogue: 0,1:27:47.87,1:27:51.65,Default,,0,0,0,,{\an8}♫ Un escudo formado por mi cuerpo... ♫
+Dialogue: 0,1:27:51.75,1:27:55.55,Default,,0,0,0,,{\an8}♫ Enterrará... ♫
+Dialogue: 0,1:27:57.10,1:28:01.05,Default,,0,0,0,,{\an8}♫ El profundo amor que el tiempo me ha dado ♫
+Dialogue: 0,1:28:01.05,1:28:05.40,Default,,0,0,0,,{\an8}♫ ¿Podría formar una montaña ... ♫
+Dialogue: 0,1:28:06.30,1:28:10.25,Default,,0,0,0,,{\an8}♫ Que te proteja... ♫
+Dialogue: 0,1:28:10.33,1:28:14.55,Default,,0,0,0,,{\an8}♫ De una tormenta de nieve? ♫
+Dialogue: 0,1:28:16.10,1:28:19.75,Default,,0,0,0,,{\an8}♫ Quería darte la eternidad ♫
+Dialogue: 0,1:28:19.80,1:28:23.88,Default,,0,0,0,,{\an8}♫ Por siempre estaré aquí  ♫
+Dialogue: 0,1:28:27.70,1:28:31.67,Default,,0,0,0,,{\an8}♫ No cuentes los días desde que me vaya ♫
+Dialogue: 0,1:28:31.70,1:28:35.54,Default,,0,0,0,,{\an8}♫ Incluso si estas triste y lloras ♫
+Dialogue: 0,1:28:36.95,1:28:40.95,Default,,0,0,0,,{\an8}♫ Si pudiera volver a empezar, todas mis desiciones... ♫
+Dialogue: 0,1:28:40.95,1:28:44.75,Default,,0,0,0,,{\an8}♫ Serian las mismas ♫
+Dialogue: 0,1:28:45.75,1:28:48.33,Default,,0,0,0,,{\an8}♫ No te quedes quieta en el mismo sitio ♫
+Dialogue: 0,1:28:48.33,1:28:50.50,Default,,0,0,0,,{\an8}♫ Las palabras en la lápida son pesadas ♫
+Dialogue: 0,1:28:50.50,1:28:54.44,Default,,0,0,0,,{\an8}♫ Aligéralas un poco ♫
+Dialogue: 0,1:28:55.00,1:28:59.80,Default,,0,0,0,,{\an8}♫ Deja que la luz más cálida ilumine tu rostro ♫
+Dialogue: 0,1:28:59.90,1:29:04.30,Default,,0,0,0,,{\an8}♫ Solo entonces puede ser una promesa ♫
+Dialogue: 0,1:29:04.40,1:29:07.04,Default,,0,0,0,,{\an8}♫ No puedo frenar el tiempo... ♫
+Dialogue: 0,1:29:07.04,1:29:09.04,Default,,0,0,0,,{\an8}♫ Para no decirte adios ♫
+Dialogue: 0,1:29:08.80,1:29:10.80,Default,,0,0,0,,Viejo
+Dialogue: 0,1:29:09.80,1:29:14.67,Default,,0,0,0,,{\an8}♫ Todavía anhelo el calor de tus dedos ♫
+Dialogue: 0,1:29:13.05,1:29:14.30,Default,,0,0,0,,Sujétalo fuerte...
+Dialogue: 0,1:29:14.30,1:29:16.70,Default,,0,0,0,,Y nadie podrá hacerte daño...
+Dialogue: 0,1:29:14.70,1:29:19.29,Default,,0,0,0,,{\an8}♫ Solo puedo mirarte por una última vez... ♫
+Dialogue: 0,1:29:19.35,1:29:21.46,Default,,0,0,0,,{\an8}♫ Y recordar todo sobre ti ♫
+Dialogue: 0,1:29:21.63,1:29:23.92,Default,,0,0,0,,{\an8}♫ En mi último segundo, solo deseo... ♫
+Dialogue: 0,1:29:24.00,1:29:27.80,Default,,0,0,0,,{\an8}♫ Que la primavera en tus ojos nunca se extinga... ♫
+Dialogue: 0,1:29:26.10,1:29:28.45,Default,,0,0,0,,¡Viejo!
+Dialogue: 0,1:29:27.85,1:29:32.25,Default,,0,0,0,,{\an8}♫ Que tengas un buen viaje por el mundo ♫
+Dialogue: 0,1:29:32.30,1:29:34.10,Default,,0,0,0,,{\an8}♫ Primero me iré a un lugar lejano... ♫
+Dialogue: 0,1:29:34.15,1:29:37.25,Default,,0,0,0,,{\an8}♫ Para plantar flores para ti en un campo... ♫
+Dialogue: 0,1:29:37.35,1:29:42.05,Default,,0,0,0,,{\an8}♫ No mires atrás ... ♫
+Dialogue: 0,1:29:42.25,1:29:44.80,Default,,0,0,0,,{\an8}♫ Sigue avanzando ♫
+Dialogue: 0,1:29:51.50,1:29:56.95,Default,,0,0,0,,{\an8}♫ No mires atrás ♫
+Dialogue: 0,1:29:54.30,1:29:55.65,Default,,0,0,0,,Mátenla
+Dialogue: 0,1:29:59.30,1:30:01.80,Default,,0,0,0,,Quiero que...
+Dialogue: 0,1:30:02.72,1:30:04.70,Default,,0,0,0,,¡Pagues con tu vida!
+Dialogue: 0,1:30:06.45,1:30:09.05,Default,,0,0,0,,{\an8}♫ Fuertes nevadas de Enero, flores voladoras de Abril  ♫\N
+Dialogue: 0,1:30:09.05,1:30:13.85,Default,,0,0,0,,{\an8}♫ Tardes de Julio con hojas que caen de borde dorado ♫
+Dialogue: 0,1:30:13.85,1:30:17.30,Default,,0,0,0,,{\an8}♫ La aurora boreal, todo es como tu ♫\N♫ Después de que una estrella fugaz cruce el cielo... ♫
+Dialogue: 0,1:30:17.30,1:30:20.10,Default,,0,0,0,,{\an8}♫ En una noche estrellada, es mi deseo que... ♫
+Dialogue: 0,1:30:20.15,1:30:23.60,Default,,0,0,0,,{\an8}♫ No mires atrás ♫
+Dialogue: 0,1:30:25.20,1:30:31.37,Default,,0,0,0,,{\an8}♫ Te amaré... ♫
+Dialogue: 0,1:30:34.50,1:30:38.41,Default,,0,0,0,,{\an8}♫ Para siempre ♫
+Dialogue: 0,1:30:39.00,1:30:40.85,Default,,0,0,0,,Viejo...
+Dialogue: 0,1:30:40.85,1:30:43.30,Default,,0,0,0,,Tu dulce favorito...
+Dialogue: 0,1:30:46.70,1:30:48.25,Default,,0,0,0,,Dijo la abuela...
+Dialogue: 0,1:30:48.25,1:30:53.25,Default,,0,0,0,,Esto es para el largo adiós hasta nuestro próximo reencuentro...
+Dialogue: 0,1:30:53.25,1:30:54.90,Default,,0,0,0,,Mientras creas en eso
+Dialogue: 0,1:30:54.90,1:30:57.00,Default,,0,0,0,,Hasta luego
+Dialogue: 0,1:30:57.00,1:30:58.30,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,1:30:58.30,1:31:00.85,Default,,0,0,0,,Ese día, solo salvamos esto...
+Dialogue: 0,1:31:29.30,1:31:34.70,Default,,0,0,0,,Esta es la caja de hojalata que le quitamos al viejo
+Dialogue: 0,1:31:34.70,1:31:35.90,Default,,0,0,0,,Lo siento...
+Dialogue: 0,1:31:51.40,1:31:52.35,Default,,0,0,0,,¿Lo grabaste?
+Dialogue: 0,1:31:53.35,1:31:56.10,Default,,0,0,0,,Este es mi primer paso de mi carrera como director
+Dialogue: 0,1:31:56.10,1:31:59.00,Default,,0,0,0,,Quiero esta cámara, nombra el precio
+Dialogue: 0,1:31:59.00,1:32:01.00,Default,,0,0,0,,Nunca como dulces ni hago amigos
+Dialogue: 0,1:32:01.40,1:32:03.80,Default,,0,0,0,,Miren a la cámara, ¡3, 2, 1!
+Dialogue: 0,1:32:04.60,1:32:06.10,Default,,0,0,0,,¡Es la primera vez que actúo en una película!
+Dialogue: 0,1:32:06.10,1:32:08.35,Default,,0,0,0,,Es la primera vez que como de una olla
+Dialogue: 0,1:32:11.90,1:32:13.17,Default,,0,0,0,,¡Jajaja!
+Dialogue: 0,1:32:15.02,1:32:18.05,Default,,0,0,0,,Todo encuentro termina con una despedida, todo se acabará y será olvidado
+Dialogue: 0,1:32:18.05,1:32:20.25,Default,,0,0,0,,Pero comparado con ser recordado por el mundo...
+Dialogue: 0,1:32:20.25,1:32:22.65,Default,,0,0,0,,Prefiero que tú me recuerdes
+Dialogue: 0,1:32:22.60,1:32:24.80,Default,,0,0,0,,Me llamo 17, ¿cuál es tu nombre?
+Dialogue: 0,1:32:25.60,1:32:26.78,Default,,0,0,0,,17
+Dialogue: 0,1:32:28.80,1:32:29.80,Default,,0,0,0,,¿Quieres dulces?
+Dialogue: 0,1:32:42.30,1:32:43.89,Default,,0,0,0,,Adivina...
+Dialogue: 0,1:32:43.89,1:32:46.20,Default,,0,0,0,,¿Qué pasa si superara la velocidad de la luz?
+Dialogue: 0,1:32:46.20,1:32:47.20,Default,,0,0,0,,¿Qué pasaría?
+Dialogue: 0,1:32:47.20,1:32:48.78,Default,,0,0,0,,Alcanzar la luz...
+Dialogue: 0,1:32:48.78,1:32:50.91,Default,,0,0,0,,Podría volver al pasado
+Dialogue: 0,1:32:53.85,1:32:56.25,Default,,0,0,0,,Alcanzar la luz...
+Dialogue: 0,1:32:57.05,1:32:58.80,Default,,0,0,0,,Podría verte otra vez
+Dialogue: 0,1:33:25.35,1:33:27.85,Default,,0,0,0,,Si realmente pudiera volver al pasado...
+Dialogue: 0,1:33:29.05,1:33:32.40,Default,,0,0,0,,Ya no tendría que correr contra el tiempo de nuevo
+Dialogue: 0,1:33:43.30,1:33:44.40,Default,,0,0,0,,La gente dice...
+Dialogue: 0,1:33:44.40,1:33:48.55,Default,,0,0,0,,Que el tiempo pasa lentísimo aquí en este aburrido pueblo pesquero 
+Dialogue: 0,1:33:48.55,1:33:51.25,Default,,0,0,0,,Perder el tiempo en cosas aburridas...
+Dialogue: 0,1:33:51.25,1:33:53.10,Default,,0,0,0,,¿Vale la pena? ¡La vida es solo una!
+Dialogue: 0,1:33:53.10,1:33:55.00,Default,,0,0,0,,Como el último sorbo del noveno abuelo...
+Dialogue: 0,1:33:55.00,1:34:00.05,Default,,0,0,0,,Esto es solo un largo adiós hasta que nos volvamos a encontrar
+Dialogue: 0,1:34:01.95,1:34:03.30,Default,,0,0,0,,¿Quieres bailar?
+Dialogue: 0,1:34:03.65,1:34:04.20,Default,,0,0,0,,Esperame...
+Dialogue: 0,1:34:04.40,1:34:06.85,Default,,0,0,0,,Si tardamos, nos lo perderemos
+Dialogue: 0,1:34:06.85,1:34:10.23,Default,,0,0,0,,Hasta que pueda recordar cada momento que pasé contigo
+Dialogue: 0,1:34:23.15,1:34:24.60,Default,,0,0,0,,Resulta...
+Dialogue: 0,1:34:24.60,1:34:29.35,Default,,0,0,0,,Que quien me empujó hacia ti en el baile...
+Dialogue: 0,1:34:29.35,1:34:31.30,Default,,0,0,0,,Fui yo
+Dialogue: 0,1:34:37.95,1:34:41.60,Default,,0,0,0,,Así que todo esto estaba predestinado...
+Dialogue: 0,1:34:41.60,1:34:43.85,Default,,0,0,0,,No importa lo que haga...
+Dialogue: 0,1:34:43.85,1:34:46.15,Default,,0,0,0,,No puedo cambiar este final, ¿verdad?
+Dialogue: 0,1:34:49.10,1:34:50.55,Default,,0,0,0,,17
+Dialogue: 0,1:34:52.80,1:34:57.52,Default,,0,0,0,,¿Qué debo hacer?
+Dialogue: 0,1:34:57.52,1:34:58.95,Default,,0,0,0,,Qian Xiao...
+Dialogue: 0,1:35:00.45,1:35:01.75,Default,,0,0,0,,17...
+Dialogue: 0,1:35:02.80,1:35:04.55,Default,,0,0,0,,17, ¿puedes verme?
+Dialogue: 0,1:35:05.75,1:35:06.90,Default,,0,0,0,,17
+Dialogue: 0,1:35:07.40,1:35:09.05,Default,,0,0,0,,17
+Dialogue: 0,1:35:09.30,1:35:10.60,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,1:35:11.50,1:35:14.20,Default,,0,0,0,,17, ¿puedes verme?
+Dialogue: 0,1:35:14.20,1:35:16.95,Default,,0,0,0,,-17\N-Qian Xiao
+Dialogue: 0,1:35:18.65,1:35:20.27,Default,,0,0,0,,Qian Xiao...
+Dialogue: 0,1:35:21.27,1:35:21.78,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,1:35:23.27,1:35:25.85,Default,,0,0,0,,Si un día no estoy a tu lado...
+Dialogue: 0,1:35:26.74,1:35:28.10,Default,,0,0,0,,No estés triste...
+Dialogue: 0,1:35:30.40,1:35:32.55,Default,,0,0,0,,Soy la tipa que puede atrapar la luz...
+Dialogue: 0,1:35:32.55,1:35:34.05,Default,,0,0,0,,¿Cómo podría no alcanzarte?
+Dialogue: 0,1:35:36.18,1:35:37.85,Default,,0,0,0,,Qian Xiao...
+Dialogue: 0,1:35:37.85,1:35:39.55,Default,,0,0,0,,¿Estás ahí?
+Dialogue: 0,1:35:51.75,1:35:53.20,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,1:35:54.10,1:35:55.20,Default,,0,0,0,,17
+Dialogue: 0,1:35:59.35,1:36:00.55,Default,,0,0,0,,¡No!
+Dialogue: 0,1:36:00.55,1:36:03.40,Default,,0,0,0,,¡No quiero!
+Dialogue: 0,1:36:06.05,1:36:07.40,Default,,0,0,0,,17
+Dialogue: 0,1:36:14.85,1:36:16.05,Default,,0,0,0,,17
+Dialogue: 0,1:36:17.05,1:36:19.45,Default,,0,0,0,,Esperame
+Dialogue: 0,1:36:23.55,1:36:25.05,Default,,0,0,0,,Ya estoy de vuelta...
+Dialogue: 0,1:36:44.95,1:36:46.55,Default,,0,0,0,,Qian Xiao
+Dialogue: 0,1:36:48.85,1:36:50.35,Default,,0,0,0,,¿Estás ahí?
+Dialogue: 0,1:36:50.35,1:36:51.35,Default,,0,0,0,,¡Estoy aquí!
+Dialogue: 0,1:36:51.35,1:36:52.10,Default,,0,0,0,,¡17!
+Dialogue: 0,1:36:52.10,1:36:53.50,Default,,0,0,0,,¡Estoy aquí!
+Dialogue: 0,1:36:53.50,1:36:57.20,Default,,0,0,0,,¡17!
+Dialogue: 0,1:37:01.40,1:37:04.10,Default,,0,0,0,,Para alcanzar la luz...
+Dialogue: 0,1:37:04.10,1:37:06.30,Default,,0,0,0,,Debió de haber sido muy difícil para ti... 
+Dialogue: 0,1:37:10.60,1:37:14.85,Default,,0,0,0,,Por favor, no me dejes
+Dialogue: 0,1:37:14.85,1:37:16.55,Default,,0,0,0,,Deja de perseguirme...
+Dialogue: 0,1:37:21.65,1:37:23.02,Default,,0,0,0,,17
+Dialogue: 0,1:37:28.15,1:37:30.01,Default,,0,0,0,,Las despedidas siempre llegan...
+Dialogue: 0,1:37:31.55,1:37:32.80,Default,,0,0,0,,Prométeme...
+Dialogue: 0,1:37:33.65,1:37:35.75,Default,,0,0,0,,Incluso si me voy primero...
+Dialogue: 0,1:37:36.35,1:37:39.05,Default,,0,0,0,,Que no te quedaras atrapada en la tristeza por mucho tiempo...
+Dialogue: 0,1:37:40.55,1:37:41.90,Default,,0,0,0,,¿De acuerdo?
+Dialogue: 0,1:37:50.20,1:37:51.90,Default,,0,0,0,,Dijiste...
+Dialogue: 0,1:37:52.80,1:37:54.40,Default,,0,0,0,,Todo lo que ha sucedido...
+Dialogue: 0,1:37:54.40,1:37:57.35,Default,,0,0,0,,Será recordado por el mundo para siempre...
+Dialogue: 0,1:37:58.35,1:38:01.40,Default,,0,0,0,,Por eso no temo del final de la película...
+Dialogue: 0,1:38:02.75,1:38:05.15,Default,,0,0,0,,Porque quien la vio conmigo...
+Dialogue: 0,1:38:06.65,1:38:08.25,Default,,0,0,0,,Fuiste tú...
+Dialogue: 0,1:38:14.76,1:38:16.23,Default,,0,0,0,,Todo está escrito...
+Dialogue: 0,1:38:17.01,1:38:18.22,Default,,0,0,0,,Creo que...
+Dialogue: 0,1:38:20.05,1:38:23.55,Default,,0,0,0,,Este es el significado del tiempo...
+Dialogue: 0,1:38:35.85,1:38:38.83,Default,,0,0,0,,{\an8}♫ Cuéntame todo sobre ti ♫
+Dialogue: 0,1:38:43.15,1:38:46.42,Default,,0,0,0,,{\an8}♫ Muchas cosas ya no las recuerdo bien ♫
+Dialogue: 0,1:38:50.40,1:38:55.21,Default,,0,0,0,,{\an8}♫ Si algún día viajas lejos y te encuentras con un paisaje que amas ♫
+Dialogue: 0,1:38:55.38,1:39:00.04,Default,,0,0,0,,{\an8}♫ Me quedaré ahí más tiempo ♫
+Dialogue: 0,1:39:00.29,1:39:03.29,Default,,0,0,0,,{\an8}♫ Para contemplarlo por tí ♫
+Dialogue: 0,1:39:03.45,1:39:08.71,Default,,0,0,0,,{\an8}♫ Cuando vuelvo a oírte decir mi nombre ♫
+Dialogue: 0,1:39:09.10,1:39:11.10,Default,,0,0,0,,{\an8}♫ Ya he vivido toda una vida ♫
+Dialogue: 0,1:39:11.55,1:39:16.70,Default,,0,0,0,,{\an8}♫ Entiendo que algunas cosas estaban destinadas ♫
+Dialogue: 0,1:39:18.88,1:39:22.19,Default,,0,0,0,,{\an8}♫ Todos estamos en el río del tiempo ♫
+Dialogue: 0,1:39:22.90,1:39:26.45,Default,,0,0,0,,{\an8}♫ La despedida es el reflejo del encuentro ♫
+Dialogue: 0,1:39:26.45,1:39:29.50,Default,,0,0,0,,{\an8}♫ Desde aquel primer saludo ♫
+Dialogue: 0,1:39:29.55,1:39:32.75,Default,,0,0,0,,{\an8}♫ Ya existía el eco del reencuentro ♫
+Dialogue: 0,1:39:33.85,1:39:36.60,Default,,0,0,0,,{\an8}♫ Si pasados muchos años tengo la suerte ♫
+Dialogue: 0,1:39:36.60,1:39:40.30,Default,,0,0,0,,{\an8}♫ De volver a encontrarte en otro sueño ♫
+Dialogue: 0,1:39:40.30,1:39:44.15,Default,,0,0,0,,{\an8}♫ Ojalá en aquella multitud ♫
+Dialogue: 0,1:39:44.20,1:39:47.25,Default,,0,0,0,,{\an8}♫ Aún me reconozcas de una sola mirada ♫
+Dialogue: 0,1:39:48.30,1:39:52.92,Default,,0,0,0,,{\an8}♫ Pero cuando vuelvo a pronunciar tu nombre ♫
+Dialogue: 0,1:39:53.29,1:39:55.50,Default,,0,0,0,,{\an8}♫ Ni el cielo ni la tierra responden ♫
+Dialogue: 0,1:39:55.60,1:40:00.15,Default,,0,0,0,,{\an8}♫ El mundo entero se queda en silencio de repente ♫
+Dialogue: 0,1:40:00.88,1:40:03.50,Default,,0,0,0,,{\an8}♫ Cada vez que te recuerdo, todo se detiene ♫
+Dialogue: 0,1:40:03.50,1:40:07.68,Default,,0,0,0,,{\an8}♫ El río del tiempo parece haberse congelado ♫
+Dialogue: 0,1:40:08.42,1:40:10.30,Default,,0,0,0,,{\an8}♫ Mi querido, no hace falta que despiertes ♫
+Dialogue: 0,1:40:10.30,1:40:15.85,Default,,0,0,0,,{\an8}♫ Duérmete en mis recuerdos ♫
+Dialogue: 0,1:40:16.00,1:40:17.65,Default,,0,0,0,,No temo del final de la película...
+Dialogue: 0,1:40:17.65,1:40:20.05,Default,,0,0,0,,Porque quien la vio conmigo...
+Dialogue: 0,1:40:20.05,1:40:26.60,Default,,0,0,0,,Fuiste tú
+Dialogue: 0,1:41:26.26,1:41:28.78,Default,,0,0,0,,Tome su boleto y bienvenida a la función
+Dialogue: 0,1:41:30.52,1:41:32.02,Default,,0,0,0,,¡Oye, chica, dejaste tu vino aquí!
+Dialogue: 0,1:41:32.02,1:41:33.02,Default,,0,0,0,,Puedes conservarlo y beberlo
+Dialogue: 0,1:41:35.59,1:41:36.90,Default,,0,0,0,,¡Ay mi helado!
+Dialogue: 0,1:41:38.35,1:41:38.90,Default,,0,0,0,,Toma
+Dialogue: 0,1:41:41.80,1:41:42.90,Default,,0,0,0,,Gracias
+Dialogue: 0,1:41:48.10,1:41:51.20,Default,,0,0,0,,¡No me apures, voy a poner la siguiente película!
+Dialogue: 0,1:41:51.55,1:41:52.60,Default,,0,0,0,,Lo siento
+Dialogue: 0,1:41:58.79,1:41:59.75,Default,,0,0,0,,Cine Teatral\NFila 17 Número 17
+Dialogue: 0,1:42:25.65,1:42:31.30,Default,,0,0,0,,Nos veremos otra vez
